@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "content": "Đối tác thương mại đầu tư lớn nhất của Việt Nam năm 2010 là các quốc gia",
+    "options": {
+      "A": "Trung Quốc và Mỹ",
+      "B": "Trung Quốc và EU",
+      "C": "Trung Quốc và ASEAN",
+      "D": "Trung Quốc và Nhật Bản"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình trang 334"
+  },
+  {
+    "id": 2,
+    "content": "Động lực chủ yếu để phát triển đất nước được Đại hội IX của Đảng xác định là gì?",
+    "options": {
+      "A": "Đấu tranh ngăn chặn và khắc phục những tư tưởng và hành động tiêu cực, sai trái",
+      "B": "Đại đoàn kết toàn dân trên cơ sở liên minh giữa công nhân với nông dân và trí thức",
+      "C": "Thực hiện công bằng xã hội, chống áp bức, bất công",
+      "D": "Bảo vệ độc lập dân tộc"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "content": "Kẻ thù chính của cách mạng Việt Nam ngay sau cách mạng tháng Tám năm 1945 được nêu trong chỉ thị \"Kháng chiến kiến quốc” là gì?",
+    "options": {
+      "A": "Giặc đói và giặc dốt",
+      "B": "Tưởng Giới Thạch và bè lũ tay sai",
+      "C": "Thực dân Pháp xâm lược",
+      "D": "Thực dân Anh xâm lược"
+    },
+    "correct_answer": "C",
+    "explanation": "Chỉ thị \"Kháng chiến kiến quốc\" của Trung ương Đảng ngày 25/11/1945 đã xác định kẻ thù chính, nguy hiểm nhất của cách mạng Việt Nam ngay sau Cách mạng tháng Tám là thực dân Pháp xâm lược."
+  },
+  {
+    "id": 4,
+    "content": "Chủ trương “... mở rộng, đa dạng hóa, đa phương hóa quan hệ đối ngoại” được Đảng ta đưa ra tại Hội nghị nào sau đây?",
+    "options": {
+      "A": "Hội nghị lần thứ 5 Ban chấp hành Trung ương khóa VII (6/1993)",
+      "B": "Hội nghị lần thứ 2 Ban chấp hành Trung ương khóa VII (11-12/1991)",
+      "C": "Hội nghị Đại biểu toàn quốc giữa nhiệm kỳ khóa VII (1/1994)",
+      "D": "Hội nghị lần thứ 3 Ban chấp hành Trung ương khóa VII (2/1992)"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "content": "Những cuộc khởi nghĩa nào được đánh giá là: \"những tiếng súng báo hiệu cho cuộc khởi nghĩa toàn quốc, là bước đầu đấu tranh bằng võ lực của các dân tộc ở một nước Đông Dương\"",
+    "options": {
+      "A": "Bắc Sơn, Nam Kỳ",
+      "B": "Bắc Sơn, Nam Kỳ và bình biển Đô Lương",
+      "C": "Đô Luang, Vũ Nhai, Bắc Sơn",
+      "D": "Bắc Sơn, Đô Lương"
+    },
+    "correct_answer": "B",
+    "explanation": "Những cuộc khởi nghĩa và binh biến này được đánh giá là \"những tiếng súng bảo hiệu cho cuộc khởi nghĩa toàn quốc, là bước đầu đấu tranh bằng võ lực của các dân tộc ở một nước Đông Dương\". Khởi nghĩa Bắc Sơn: Diễn ra ở Lạng Sơn vào tháng 9 năm 1940. Khởi nghĩa Nam Kỳ: Bùng nổ vào ngày 23 tháng 11 năm 1940. Binh biển Đô Lương: Diễn ra ở Nghệ An vào tháng 1 năm 1941"
+  },
+  {
+    "id": 6,
+    "content": "Đại hội VI của Đảng (1986) đã nêu lên những thành tựu nổi bật trong 10 năm cả nước quá độ lên chủ nghĩa xã hội (1975–1985) là gì? Hãy chọn phương án không đúng:",
+    "options": {
+      "A": "Giành thắng lợi to lớn trong sự nghiệp bảo vệ Tổ quốc, bảo vệ an ninh chính trị và làm nghĩa vụ quốc tế",
+      "B": "Đạt đc những thành tựu quan trọng trong sự nghiệp xây dựng chủ nghĩa xã hội",
+      "C": "Thực hiện thắng lợi chủ trương thống nhất nước nhà về mặt Nhà nước",
+      "D": "Thực hiện đa phương hóa, đa dạng hóa quan hệ đối ngoại, hội nhập quốc tế sâu rộng"
+    },
+    "correct_answer": "D",
+    "explanation": "Giai đoạn 1975–1985, Việt Nam vẫn còn gặp nhiều khó khăn trong quan hệ đối ngoại, không thể thực hiện đa phương hóa, đa dạng hóa sâu rộng như giai đoạn sau Đổi Mới."
+  },
+  {
+    "id": 7,
+    "content": "Cuộc khủng hoảng nội các chính quyền Sài Gòn diễn ra trong thời gian nào?",
+    "options": {
+      "A": "1963-1965",
+      "B": "1960-1962",
+      "C": "1958-1960",
+      "D": "1965-1967"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "content": "Cương lĩnh chính trị đầu tiên xác định cách mạng Việt Nam có mấy nhiệm vụ chủ yếu trước mắt?",
+    "options": {
+      "A": "1 Nhiệm Vụ",
+      "B": "3 Nhiệm Vụ",
+      "C": "4 Nhiệm Vụ",
+      "D": "2 Nhiệm vụ"
+    },
+    "correct_answer": "B",
+    "explanation": "Cương lĩnh chính trị đầu tiên của Đảng xác định cách mạng Việt Nam có 3 nhiệm vụ chủ yếu trước mắt: đánh đổ đế quốc Pháp, phong kiến và tay sai, giành độc lập dân tộc và lập ra chính phủ công nông."
+  },
+  {
+    "id": 9,
+    "content": "Chỉ thị “Nhật, Pháp bắn nhau và hành động của chúng ta\", xác định khẩu hiệu đấu tranh là gì?",
+    "options": {
+      "A": "\"đánh đuổi phát xít Nhật\"",
+      "B": "\"đánh đuổi xâm lược\"",
+      "C": "“đánh đuổi đế quốc Pháp\"",
+      "D": "\"đánh đuổi phát xít Nhật-Pháp\""
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "content": "Từ sau ngày 2-9-1945 đến trước ngày 6-3-1946, Đảng và chính phủ nước Việt Nam Dân chủ Cộng hòa đã thực hiện chủ trương gì với Trung Hoa Dân Quốc?",
+    "options": {
+      "A": "đấu tranh vũ trang",
+      "B": "đấu tranh ngoại giao",
+      "C": "đấu tranh chính trị",
+      "D": "tạm thời hòa hoãn"
+    },
+    "correct_answer": "D",
+    "explanation": "Từ sau ngày 2-9-1945 đến trước ngày 6-3-1946, Đảng và chính phủ Việt Nam Dân chủ Cộng hòa đã thực hiện chủ trương D) tạm thời hòa hoãn với Trung Hoa Dân Quốc để đối phó với quân Tưởng Giới Thạch. Việt Nam đã nhượng bộ một số quyền lợi về kinh tế (như nhượng bộ một phần thị trường) và chính trị (như giữ nguyên bộ máy chính quyền trung ương cũ) để tránh phải cùng lúc đối đầu với nhiều kẻ thù."
+  },
+  {
+    "id": 11,
+    "content": "Hội nghị nào của Đảng mở đường cho phong trào \"Đồng khởi” ở miền Nam năm 1960",
+    "options": {
+      "A": "Hội nghị Trung ương 13 - Khóa II của Đảng (12-1957)",
+      "B": "Hội nghị Trung ương 15 - Khóa II của Đảng (1-1959)",
+      "C": "Hội nghị Trung ương 14 - Khóa II của Đảng (11-1958)",
+      "D": "Hội nghị Trung ương 12 - Khoá II của Đảng (3-1957)"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "content": "Việt Nam bình thường hóa quan hệ với Trung Quốc vào thời gian nào?",
+    "options": {
+      "A": "1993",
+      "B": "1990",
+      "C": "1992",
+      "D": "1991"
+    },
+    "correct_answer": "D",
+    "explanation": "Việt Nam bình thường hóa quan hệ với Trung Quốc vào năm 1991. Sau khi hai nước ký các hiệp định thương mại và về biên giới vào tháng 11/1991, quan hệ ngoại giao giữa hai nước đã được nối lại."
+  },
+  {
+    "id": 13,
+    "content": "Những lý do nào sau đây đã khiến cho Luận cương chính trị tháng 10/1930 không có được chiến lược liên minh dân tộc và giai cấp rộng rãi. (Chọn phương án KHÔNG đúng)",
+    "options": {
+      "A": "Do nhận thức rõ sự phân hóa giai cấp trong xã hội Việt Nam lúc này.",
+      "B": "Do trực tiếp chịu ảnh hưởng tư tưởng \"tả khuynh\" của Quốc tế cộng sản",
+      "C": "Do tuyệt đối hóa vai trò của giai cấp công nhân và nông dân trong cách mạng Việt Nam.",
+      "D": "Do nhận thức giáo điều mối quan hệ dân tộc - giai cấp"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "content": "Đại hội đại biểu lần thứ nhất của Đảng họp ở Ma Cao (Trung Quốc) vào tháng 3 năm 1935 để ra nhiệm vụ trước mắt là gì?",
+    "options": {
+      "A": "Đẩy mạnh cuộc vận động tập hợp quần chúng",
+      "B": "Xây dựng 7 chiến khu trên cả nước",
+      "C": "Đẩy mạnh khởi nghĩa từng phần, mở rộng căn cứ địa",
+      "D": "Thành lập mặt trận Đông Dương"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "content": "Ngày 14 và 15-8-1945 Hội nghị toàn quốc của Đảng họp ở Tân Trào. Hội nghị xác định khẩu hiệu đấu tranh lúc này là gì?",
+    "options": {
+      "A": "Hoàn toàn độc lập! Giải phóng dân tộc",
+      "B": "Hoàn toàn độc lập! Chính quyền nhân dân!",
+      "C": "Phản đối xâm lược! Hoàn toàn độc lập!",
+      "D": "Phản đối xâm lược! Hoàn toàn độc lập! Chính quyền nhân dân!"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "content": "Giai cấp nào có số lượng đông đảo nhất trong xã hội Việt Nam dưới thời thực dân Pháp thống trị ?",
+    "options": {
+      "A": "Giai cấp địa chủ phong kiến",
+      "B": "Giai cấp công nhân",
+      "C": "Giai cấp Nông dân",
+      "D": "Giai cấp tư sản"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "content": "Đại hội đại biểu toàn quốc lần thứ II của Đảng đã ra quyết định quan trọng nào?",
+    "options": {
+      "A": "Thành lập liên minh nhân dân Việt – Miên - Lào",
+      "B": "Xây dựng ở Cam - pu - chia, Lào mỗi nước mỗi Đảng riêng...",
+      "C": "Thành lập mặt trận giải phóng dân tộc riêng...",
+      "D": "Tách Đảng cộng sản Đông Dương thành 3 đảng riêng..."
+    },
+    "correct_answer": "B",
+    "explanation": "Không phải tách Đảng mà là xây dựng Đảng riêng ở mỗi nước."
+  },
+  {
+    "id": 18,
+    "content": "Chiến dịch Mậu Thân 1968 đánh dấu sự kết thúc chiến lược chiến tranh nào của Mỹ và tay sai?",
+    "options": {
+      "A": "Việt Nam hóa chiến tranh",
+      "B": "Đặc biệt",
+      "C": "Cục bộ",
+      "D": "Đơn phương"
+    },
+    "correct_answer": "C",
+    "explanation": "Chiến dịch Mậu Thân 1968 đã đánh bại chiến lược \"chiến tranh cục bộ\" của Mỹ và tay sai. Thắng lợi này đã buộc Mỹ phải thừa nhận thất bại, chấp nhận chấm dứt ném bom miền Bắc và bắt đầu đàm phán ở Hội nghị Pa-ri."
+  },
+  {
+    "id": 19,
+    "content": "Nghị quyết 04. NQ/TW ngày 30/10/2016 về tăng cường xây dựng, chỉnh đốn Đảng đã chỉ rõ bao nhiêu biểu hiện \"tự diễn biến\", \"tự chuyển hóa\"?",
+    "options": {
+      "A": "27",
+      "B": "25",
+      "C": "22",
+      "D": "21"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "content": "Hơn 90 năm lịch sử Đảng, Đảng tổng kết có 3 tháng lợi vĩ đại. Một trong 3 tháng lợi đó là: “Thắng lợi của các cuộc kháng chiến oanh liệt để giải phóng dân tộc, bảo vệ Tổ quốc”. Vậy “các cuộc kháng chiến\" ở đây là các cuộc kháng chiến nào?",
+    "options": {
+      "A": "Kháng chiến chống Pháp (1945-1954)",
+      "B": "Kháng chiến chống Pháp (1945 – 1954) và kháng chiến chống Mỹ (1954 -1975)",
+      "C": "Kháng chiến chống Nhật (1945)",
+      "D": "Kháng chiến chống Mỹ (1954-1975)"
+    },
+    "correct_answer": "B",
+    "explanation": "Phương án đúng là B) Kháng chiến chống Pháp (1945 – 1954) và kháng chiến chống Mỹ (1954 -1975). \"Các cuộc kháng chiến oanh liệt để giải phóng dân tộc, bảo vệ Tổ quốc\" mà Đảng tổng kết bao gồm cuộc kháng chiến chống thực dân Pháp xâm lược (1945-1954) và cuộc kháng chiến chống đế quốc Mỹ xâm lược (1954-1975), dẫn đến thống nhất đất nước."
+  },
+  {
+    "id": 21,
+    "content": "Câu thơ của Tố Hữu trong bài \" Ba mươi năm đời ta có Đảng: Lưới guam cất đất, ngăn miền Núi sông một khúc, ruột liền chia ba Nói về thủ đoạn nào trong chính sách cai trị của thực dân Pháp ở nước ta?",
+    "options": {
+      "A": "Chia để trị",
+      "B": "Chia rẽ dân tộc",
+      "C": "Chia cắt đất nước",
+      "D": "Chia rẽ miền xuôi và miền ngược"
+    },
+    "correct_answer": "A",
+    "explanation": "\"Lưỡi gươm cắt đất, ngăn miền\": Câu thơ ám chỉ việc thực dân Pháp đã dùng vũ lực chia cắt lãnh thổ Việt Nam, tạo ra các vùng khác nhau để quản lý.\"Non sông một khúc ruột liền chia ba\": Câu thơ này chỉ ra việc chia cắt lãnh thổ Việt Nam thành ba kỳ (Bắc Kỳ, Trung Kỳ, Nam Kỳ) nhằm chia rẽ sự thống nhất về ý chí và tình cảm của dân tộc."
+  },
+  {
+    "id": 22,
+    "content": "Chỉ thị “Nhật Pháp bắn nhau và hành động của chúng ta”, xác định khẩu hiệu đấu tranh là gì?",
+    "options": {
+      "A": "“đánh đuổi xâm lược”",
+      "B": "“đánh đuổi đế quốc Pháp”",
+      "C": "“đánh đuổi phát xít Nhật”",
+      "D": "“đánh đuổi phát xít Nhật - Pháp”"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "content": "Hơn 90 năm lịch sử Đảng, Đảng tổng kết có 3 thắng lợi vĩ đại. Một trong 3 thắng lợi đó là: \"Thắng lợi của các cuộc kháng chiến oanh liệt để giải phóng dân tộc, bảo vệ Tổ quốc”. Vậy \"các cuộc kháng chiến\" ở đây là mấy cuộc kháng chiến?",
+    "options": {
+      "A": "5 cuộc kháng chiến",
+      "B": "2 cuộc kháng chiến",
+      "C": "3 cuộc kháng chiến",
+      "D": "4 cuộc kháng chiến"
+    },
+    "correct_answer": "B",
+    "explanation": "Hai cuộc kháng chiến: Cuộc kháng chiến chống thực dân Pháp (1945-1954) để giành độc lập, tự do. Cuộc kháng chiến chống Mỹ, cứu nước (1954-1975) để thống nhất đất nước."
+  },
+  {
+    "id": 24,
+    "content": "Nghị quyết về công tác đối với người Việt Nam ở nước ngoài được ban hành vào thời gian nào?",
+    "options": {
+      "A": "2005",
+      "B": "2001",
+      "C": "2004",
+      "D": "2006"
+    },
+    "correct_answer": "C",
+    "explanation": "Nghị quyết số 36-NQ/TW ngày 26-3-2004 của Bộ Chính trị là văn bản đầu tiên của Đảng về công tác đối với người Việt Nam ở nước ngoài."
+  },
+  {
+    "id": 25,
+    "content": "Đại hội toàn quốc lần thứ VI của Đảng (1986) đã đề ra nội dung công nghiệp hóa với 3 chương trình kinh tế lớn. Đó là những chương trình nào sau đây?",
+    "options": {
+      "A": "Lương thực, hàng xuất khẩu và hàng công nghiệp nhẹ",
+      "B": "Lương thực thực phẩm, hàng tiêu dùng và hàng xuất khẩu",
+      "C": "Nông nghiệp, hàng tiêu dùng và hàng xuất khẩu",
+      "D": "Công nghiệp, nông nghiệp, dịch vụ"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "content": "Tên chỉ, mục đích của Đảng cộng sản Việt Nam: \"Đảng Cộng sản Việt Nam tổ chức ra để lãnh đạo quần chúng lao khổ làm giai cấp tranh đấu để tiêu trừ tư bản để quốc chủ nghĩa, làm cho thực hiện xã hội cộng sản \"được nêu lên ở Đại hội, Hội nghị nào ?",
+    "options": {
+      "A": "Hội nghị hợp nhất thành lập Đảng",
+      "B": "Đại hội toàn quốc lần thứ nhất của Đảng",
+      "C": "Đại hội toàn quốc lần thứ hai của Đảng",
+      "D": "Hội nghị Trung ương tháng 10-1930"
+    },
+    "correct_answer": "A",
+    "explanation": "A) Hội nghị hợp nhất thành lập Đảng: Đây là đáp án đúng, vì tuyên ngôn về tôn chỉ, mục đích này được đưa ra trong quá trình hợp nhất ba tổ chức cộng sản thành Đảng Cộng sản Việt Nam.B) Đại hội toàn quốc lần thứ nhất của Đảng: Đại hội này diễn ra sau khi Đảng thành lập, vào năm 1935.C) Đại hội toàn quốc lần thứ hai của Đảng: Đại hội này diễn ra sau đó và không phải nơi đưa ra tuyên ngôn ban đầu.D) Hội nghị Trung ương tháng 10-1930: Hội nghị này đã ban hành Luận cương chính trị, thay đổi mục tiêu của Đảng theo một số quan điểm mới."
+  },
+  {
+    "id": 27,
+    "content": "Chỉ thị về xây dựng và thực hiện Quy chế dân chủ cơ sở được ban hành thời gian nào?",
+    "options": {
+      "A": "1996",
+      "B": "2001",
+      "C": "1998",
+      "D": "1989"
+    },
+    "correct_answer": "C",
+    "explanation": "Ban hành ngày 18 tháng 2 năm 1998, Chỉ thị này yêu cầu các cấp ủy đảng, chính quyền, Mặt trận Tổ quốc và các đoàn thể nhân dân thực hiện các biện pháp để đẩy mạnh xây dựng và thực hiện Quy chế dân chủ ở cơ sở trên phạm vi toàn quốc."
+  },
+  {
+    "id": 28,
+    "content": "Chiến dịch quân sự kết thúc kháng chiến chống Mỹ là chiến dịch nào?",
+    "options": {
+      "A": "Chiến dịch Lê Duẩn",
+      "B": "Chiến dịch Hồ Chí Minh",
+      "C": "Chiến dịch Trường Chinh",
+      "D": "Chiến dịch Võ Nguyên Giáp"
+    },
+    "correct_answer": "B",
+    "explanation": "Chiến dịch quân sự kết thúc kháng chiến chống Mỹ là B) Chiến dịch Hồ Chí Minh. Đây là chiến dịch quyết chiến chiến lược cuối cùng của cuộc Tổng tiến công và nổi dậy mùa Xuân 1975, giải phóng hoàn toàn miền Nam, thống nhất đất nước."
+  },
+  {
+    "id": 29,
+    "content": "Một trong những đối tượng nghiên cứu của môn học Lịch sử Đảng Cộng sản Việt Nam là gì?",
+    "options": {
+      "A": "Quá trình lãnh đạo, chỉ đạo của Đảng trong tiến trình cách mạng",
+      "B": "Quá trình tổ chức thực tiễn của Đảng trong tiến trình cách mạng",
+      "C": "Quá trình lãnh đạo, chỉ đạo, tổ chức thực tiễn của Đảng trong tiến trình cách mạng",
+      "D": "Quá trình lãnh đạo của Đảng trong tiến trình cách mạng"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "content": "Chỉ thị Kháng chiến kiến quốc của Trung ương Đảng ngày 25/11/1945 xác định nhiệm vụ nào là bao trùm nhất và trung tâm nhất trong các nhiệm vụ sau đây?",
+    "options": {
+      "A": "Cải thiện đời sống nhân dân",
+      "B": "Củng cố, bảo vệ chính quyền cách mạng",
+      "C": "Chống nội phản",
+      "D": "Chống thực dân Pháp xâm lược"
+    },
+    "correct_answer": "B",
+    "explanation": "Chỉ thị Kháng chiến kiến quốc (25/11/1945) xác định nhiệm vụ B) Củng cố, bảo vệ chính quyền cách mạng là bao trùm và trung tâm nhất, bởi vì đây là cơ sở để thực hiện các nhiệm vụ khác như kháng chiến chống thực dân Pháp và cải thiện đời sống nhân dân. Việc bảo vệ và củng cố chính quyền cách mạng là nhiệm vụ quan trọng nhất, là nền tảng cho mọi thắng lợi sau này."
+  },
+  {
+    "id": 31,
+    "content": "Hội nghị Ban chấp hành Trung ương lần thứ 6 khóa IV (8/1979) đã thông qua nghị quyết 20-NQ/TW về nội dung gì?",
+    "options": {
+      "A": "Về phương hướng, nhiệm vụ phát triển công nghiệp hàng tiêu dùng và công nghiệp địa phương",
+      "B": "Về việc bãi bỏ các trạm kiểm soát có tính chất ngăn sông cấm chợ...",
+      "C": "Về tình hình và nhiệm vụ cấp bách.",
+      "D": "Về việc khuyến khích tận dụng ruộng đất trong nông nghiệp vào sản xuất."
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "content": "Nội dung nào sau đây không thuộc “ba đột phá chiến lược” mà Đại hội XI đưa ra",
+    "options": {
+      "A": "Phát triển nhanh nguồn nhân lực",
+      "B": "Phát triển nông nghiệp, nông dân nông thôn",
+      "C": "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa",
+      "D": "Xây dựng hệ thống kết cấu hạ tầng đồng bộ"
+    },
+    "correct_answer": "B",
+    "explanation": "Ba đột phá chiến lược: Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa, trọng tâm là tạo lập môi trường cạnh tranh bình đẳng và cải cách hành chính. Phát triển nhanh nguồn nhân lực, nhất là nguồn nhân lực chất lượng cao, tập trung vào việc đổi mới căn bản và toàn diện nền giáo dục quốc dân; gắn kết chặt chẽ phát triển nguồn nhân lực với phát triển và ứng dụng khoa học, công nghệ. Xây dựng hệ thống kết cấu hạ tầng đồng bộ, với một số công trình hiện đại, tập trung vào hệ thống giao thông và hạ tầng đô thị lớn."
+  },
+  {
+    "id": 33,
+    "content": "Chính quyền nào đã xé bỏ hiệp định Giơ ne vơ, cự tuyệt tổng tuyển cử thống nhất đất nước?",
+    "options": {
+      "A": "Chính quyền Ngô Đình Diệm",
+      "B": "Chính quyền Ngô Đình Nhu",
+      "C": "Chính quyền Nguyễn Cao Kỳ",
+      "D": "Không có đáp án đúng"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "content": "Sự thất bại của phong trào Đông du, Duy tân, khởi nghĩa Yên Bái (2-1930) chứng tỏ sự bất lực của giai cấp nào sau đây trong việc giải quyết các yêu cầu của xã hội Việt Nam dưới ách thống trị của thực dân Pháp?",
+    "options": {
+      "A": "Giai cấp phong kiến",
+      "B": "Giai cấp tư sản",
+      "C": "Giai cấp phong kiến và Tư sản",
+      "D": "Giai cấp Nông dân"
+    },
+    "correct_answer": "B",
+    "explanation": "Các phong trào yêu nước theo khuynh hướng dân chủ tư sản là do giai cấp tư sản lãnh đạo."
+  },
+  {
+    "id": 35,
+    "content": "Giai cấp công nhân Việt Nam ra đời sau cuộc tập trung khai thác thuộc địa lần thứ mấy của thực dân Pháp ở Việt Nam?",
+    "options": {
+      "A": "Lần thứ ba",
+      "B": "Lần thứ hai",
+      "C": "Lần thứ nhất",
+      "D": "Lần thứ tư"
+    },
+    "correct_answer": "C",
+    "explanation": "Thực dân Pháp tiến hành cuộc khai thác thuộc địa lần thứ nhất (cuối thế kỷ XIX - đầu thế kỷ XX), trong đó có việc đầu tư vào các đồn điền, hầm mỏ và nhà máy. Từ đó, một số lượng lớn người dân Việt Nam bị mất ruộng đất đã trở thành công nhân lao động trong các xí nghiệp này, đánh dấu sự ra đời của giai cấp công nhân Việt Nam."
+  },
+  {
+    "id": 36,
+    "content": "Mặt trận Dân chủ Đông dương ra đời vào thời gian nào ?",
+    "options": {
+      "A": "Tháng 3 - 1937",
+      "B": "Tháng 3 - 1938",
+      "C": "Tháng 3 - 1939",
+      "D": "Tháng 3 - 1936"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "content": "Đặc điểm mối quan hệ Việt Pháp từ ngày 6-3 đến trước ngày 19-12-1946 ta",
+    "options": {
+      "A": "Đối đầu",
+      "B": "Thù địch",
+      "C": "Hòa hoãn",
+      "D": "Đồng mình"
+    },
+    "correct_answer": "C",
+    "explanation": "Trong giai đoạn từ ngày 6-3 đến trước ngày 19-12-1946, đặc điểm mối quan hệ Việt-Pháp là hòa hoãn. Đây là sự lựa chọn có tính toán của Đảng và Chính phủ Việt Nam để có thời gian chuẩn bị lực lượng, tránh phải đối phó đồng thời với hai kẻ thù lớn là Pháp và quân Trung Hoa Dân Quốc, theo tinh thần của Hiệp định sơ bộ 6-3-1946."
+  },
+  {
+    "id": 38,
+    "content": "Đại hội V của Đảng (1982) đã có những điều chỉnh như thế nào về nội dung. bước đi, cách làm của công nghiệp hóa xã hội chủ nghĩa trong chặng đường đầu tiên? (Chọn phương án KHÔNG đúng)",
+    "options": {
+      "A": "Tập trung sức phát triển mạnh nông nghiệp, coi nông nghiệp là một trận hàng đầu",
+      "B": "Kết hợp nông nghiệp, công nghiệp hàng tiêu dùng và công nghiệp năng trong một cơ cầu công - nông nghiệp hợp lý",
+      "C": "Ưu tiên phát triển công nghiệp năng một cách hợp lý",
+      "D": "Ra sức đẩy mạnh sản xuất hàng tiêu dùng"
+    },
+    "correct_answer": "C",
+    "explanation": "Đại hội V đã điều chỉnh bước đi công nghiệp hóa theo hướng coi nông nghiệp là mặt trận hàng đầu, đẩy mạnh công nghiệp nhẹ và chỉ ưu tiên phát triển công nghiệp nặng ở mức độ vừa phải để phục vụ cho nông nghiệp và công nghiệp nhẹ, thay vì \"ưu tiên\" như giai đoạn trước."
+  },
+  {
+    "id": 39,
+    "content": "Trong quá trình lãnh đạo cách mạng Việt Nam từ năm 1930 Đảng cộng sản Việt Nam đã trải qua những tên gọi nào? (chọn đáp án không đúng)",
+    "options": {
+      "A": "Đảng Lao động Việt Nam",
+      "B": "Đảng Cộng sản Đông Dương",
+      "C": "Đảng Cộng sản Việt Nam",
+      "D": "Đảng Lao động Đông Dương"
+    },
+    "correct_answer": "D",
+    "explanation": "Trong quá trình lãnh đạo cách mạng Việt Nam từ năm 1930, Đảng đã trải qua các tên gọi: Đảng Cộng sản Việt Nam (1930), Đảng Cộng sản Đông Dương (1930), Đảng Lao động Việt Nam (1951), và Đảng Cộng sản Việt Nam (1976 đến nay)."
+  },
+  {
+    "id": 40,
+    "content": "Sau khi bị thực dân Pháp thống trị, xã hội Việt Nam có thêm mấy giai cấp, tầng lớp?",
+    "options": {
+      "A": "1 giai cấp, tầng lớp",
+      "B": "2 giai cấp, tầng lớp",
+      "C": "3 giai cấp, tầng lớp",
+      "D": "4 giai cấp, tầng lớp"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "content": "Đảng ta đã lựa chọn giải pháp gì trong mối quan hệ với thực dân Pháp sau ngày Pháp và Tưởng ký hiệp ước Trùng khánh (28-2-1946)",
+    "options": {
+      "A": "Kháng chiến chống thực dân Pháp",
+      "B": "Bộ Nhân nhượng với quân đội Tường",
+      "C": "Chống cả quân đội Tưởng và Pháp",
+      "D": "Thương lượng và hoà hoãn với Pháp"
+    },
+    "correct_answer": "D",
+    "explanation": "Sau khi Pháp và Tưởng ký Hiệp ước Trùng Khánh (28-2-1946), Đảng ta đã lựa chọn giải pháp D) Thương lượng và hoà hoãn với Pháp để tránh phải đối phó với hai kẻ thù cùng lúc và tập trung giải quyết vấn đề quân đội Tưởng để bảo vệ miền Bắc"
+  },
+  {
+    "id": 42,
+    "content": "Chiến dịch Mậu Thân điển ra thời gian nào?",
+    "options": {
+      "A": "1969",
+      "B": "1967",
+      "C": "1970",
+      "D": "1968"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "content": "Nhận định Cách mạng Tháng Mười Nga đã mở ra thời đại mới \" thời đại cách mạng chống để quốc, thời đại giải phóng dân tộc là của ai?",
+    "options": {
+      "A": "Của Chủ tịch Hồ Chí Minh",
+      "B": "Của đồng chí Lê Duẩn.",
+      "C": "Của Đại tướng Võ Nguyên Giáp",
+      "D": "Của Lê nin"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "content": "Từ ngày 14 đến 31-10-1930 tại Hương Công (Trung Quốc), đã diễn ra sự kiện",
+    "options": {
+      "A": "Ban chấp hành Trung ương họp hội nghị lần thứ nhất",
+      "B": "Ban chấp hành Trung ương họp hội nghị lần thứ hai",
+      "C": "Ban chấp hành Trung ương họp hội nghị lần thứ ba",
+      "D": "Ban chấp hành Trung ương họp hội nghị lần thứ tư"
+    },
+    "correct_answer": "A",
+    "explanation": "Từ ngày 14 đến 31-10-1930, Ban chấp hành Trung ương đã họp Hội nghị lần thứ nhất tại Hương Cảng (Trung Quốc), đây là sự kiện quan trọng đã đổi tên Đảng Cộng sản Việt Nam thành Đảng Cộng sản Đông Dương và quyết định nhiều vấn đề khác của cách mạng."
+  },
+  {
+    "id": 45,
+    "content": "Đại hội nào được đánh giá là đại hội \"tiếp tục đẩy mạnh công cuộc đổi mới, đánh dấu bước trưởng thành về vận dụng sáng tạo chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh\"?",
+    "options": {
+      "A": "Đại hội VIII (6/1996)",
+      "B": "Đại hội VII (6/1991)",
+      "C": "Đại hội IX (4/2001)",
+      "D": "Đại hội X (4/2006)"
+    },
+    "correct_answer": "C",
+    "explanation": "Đại hội lần thứ IX của Đảng là Đại hội tiếp tục đẩy mạnh công cuộc đổi mới, đánh dấu bước trưởng thành về vận dụng sáng tạo chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh"
+  },
+  {
+    "id": 46,
+    "content": "Lịch sử hơn 90 năm tên tại và phát triển, Đảng đã tổng kết: Cách mạng Việt Nam có mấy thắng lợi vĩ đại?",
+    "options": {
+      "A": "5 thắng lợi",
+      "B": "6 thắng lợi",
+      "C": "4 thắng lợi",
+      "D": "3 thắng lợi"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "content": "Đại hội đại biểu lần 1 của Đảng họp ở Ma Cao (Trung Quốc) vào tháng 3/1935 đề ra nhiệm vụ trước mắt là gì?",
+    "options": {
+      "A": "đẩy mạnh khởi nghĩa từng phần, mở rộng căn cứ địa",
+      "B": "thành lập mặt trận Đông Dương",
+      "C": "xây dựng 7 chiến khu trên cả nước",
+      "D": "đẩy mạnh cuộc vận động tập hợp quần chúng"
+    },
+    "correct_answer": "D",
+    "explanation": "Tháng 3-1935, Đại hội đại biểu lần thứ nhất của Đảng họp ở Ma Cao (Trung Quốc), đề ra ba nhiệm vụ trước mắt: 1- Củng cố và phát triển Đảng 2- Đẩy mạnh cuộc vận động tập hợp quần chúng 3- Mở rộng tuyên truyền chống đế quốc, chống chiến tranh, ủng hộ Liên Xô và ủng hộ cách mạng Trung Quốc"
+  },
+  {
+    "id": 48,
+    "content": "Đại hội đại biểu toàn quốc lần thứ hai (tháng 2-1951) Đảng Lao động Việt Nam đã thông qua một văn kiện mang tính chất cương lĩnh. Đó là gì?",
+    "options": {
+      "A": "Cương lĩnh của Đảng Lao động Việt Nam",
+      "B": "Chính cương của Đảng Lao động Việt Nam",
+      "C": "Luận cương về cách mạng Việt Nam",
+      "D": "Cương lĩnh cách mạng Việt Nam"
+    },
+    "correct_answer": "B",
+    "explanation": "Đại hội đại biểu toàn quốc lần thứ hai của Đảng Lao động Việt Nam (tháng 2-1951) đã thông qua Chính cương của Đảng Lao động Việt Nam. Đây là một văn kiện mang tính cương lĩnh, tổng kết kinh nghiệm đấu tranh của Đảng và đề ra phương hướng phát triển cho cách mạng Việt Nam trong giai đoạn mới."
+  },
+  {
+    "id": 49,
+    "content": "Chủ trương của Đảng ta trong việc đối phó với quân Tưởng sau Cách mạng tháng Tám là?",
+    "options": {
+      "A": "Nhờ vào Anh để chống quân Tường",
+      "B": "Đầu hàng quân Tường",
+      "C": "Quyết tâm đánh quân Tưởng ngay từ đầu",
+      "D": "Nhân nhượng cho quân Tường một số quyền lợi về chính trị và kinh tế"
+    },
+    "correct_answer": "D",
+    "explanation": "Sau Cách mạng tháng Tám, trước âm mưu của quân Tưởng và thực dân Pháp, Đảng và Chính phủ đã chọn sách lược \"hòa để tiến\" bằng cách nhân nhượng cho Tưởng một số quyền lợi về chính trị và kinh tế nhằm loại trừ bớt kẻ thù và tranh thủ thời gian chuẩn bị lực lượng cho cuộc kháng chiến lâu dài"
+  },
+  {
+    "id": 50,
+    "content": "Đảng Cộng sản Việt Nam đã trải qua mấy lần đổi tên từ khi ra đời đến nay?",
+    "options": {
+      "A": "2 lần đổi tên",
+      "B": "3 lần đổi tên",
+      "C": "4 lần đổi tên",
+      "D": "5 lần đổi tên"
+    },
+    "correct_answer": "B",
+    "explanation": "Đảng Cộng sản Việt Nam đã trải qua 3 lần đổi tên từ khi thành lập đến nay. 1930: Đảng Cộng sản Việt Nam. -> 1930: Đảng Cộng sản Đông Dương. -> 1951: Đảng Lao động Việt Nam -> 1976: Đảng Cộng sản Việt Nam."
+  },
+  {
+    "id": 51,
+    "content": "Đế quốc Mỹ đã thực hiện mấy cuộc chiến tranh phá hoại miền Bắc?",
+    "options": {
+      "A": "03",
+      "B": "02",
+      "C": "04",
+      "D": "05"
+    },
+    "correct_answer": "B",
+    "explanation": "Đế quốc Mỹ đã thực hiện hai cuộc chiến tranh phá hoại miền Bắc. Đó là cuộc chiến tranh phá hoại lần thứ nhất (từ 1965-1968) và lần thứ hai (năm 1972). Cuộc chiến tranh phá hoại lần thứ nhất: Diễn ra từ năm 1965 đến 1968, được thực hiện thông qua \"Chiến dịch Sấm rền\". Cuộc chiến tranh phá hoại lần thứ hai: Diễn ra vào năm 1972, sau khi Mỹ leo thang đánh phá trở lại miền Bắc."
+  },
+  {
+    "id": 52,
+    "content": "Thắng lợi vĩ đại của cách mạng Việt Nam trong hơn 90 năm theo tổng kết của Đảng Cộng sản Việt Nam? Chọn phương án không đúng.",
+    "options": {
+      "A": "Thắng lợi của cuộc Cách mạng Tháng Tám năm 1945, thành lập Nhà nước Việt Nam Dân chủ Cộng hòa",
+      "B": "Thắng lợi của cuộc kháng chiến oanh liệt để giải phóng dân tộc, bảo vệ Tổ quốc",
+      "C": "Thắng lợi của sự nghiệp đổi mới và từng bước đưa đất nước quá độ lên CNXH",
+      "D": "Thắng lợi của chiến dịch Điện Biên Phủ lừng lẫy năm châu, chấn động địa cầu"
+    },
+    "correct_answer": "D",
+    "explanation": "Thắng lợi của chiến dịch Điện Biên Phủ lừng lẫy năm châu, chấn động địa cầu là một thắng lợi quan trọng và mang tính biểu tượng, nhưng là một chiến dịch cụ thể, không phải là một trong những thắng lợi vĩ đại mang tính tổng quát được Đảng nhấn mạnh trong suốt hơn 90 năm."
+  },
+  {
+    "id": 53,
+    "content": "Đảng Cộng sản Việt Nam đã có mấy tên gọi",
+    "options": {
+      "A": "5 tên gọi",
+      "B": "4 tên gọi",
+      "C": "3 tên gọi",
+      "D": "2 tên gọi"
+    },
+    "correct_answer": "C",
+    "explanation": "Đảng Cộng sản Việt Nam đã có 3 tên gọi qua 4 lần đổi tên trong lịch sử. Các tên gọi này là: Đảng Cộng sản Việt Nam (1930), Đảng Cộng sản Đông Dương (1930), Đảng Lao động Việt Nam (1951) và lại là Đảng Cộng sản Việt Nam (1976) sau khi đất nước thống nhất."
+  },
+  {
+    "id": 54,
+    "content": "Cuối năm 1944, ở Cao Bắc Lạng, cấp ủy địa phương gấp rút chuẩn bị phát động chiến tranh du kích trong phạm vi ba tỉnh. Lúc đó, Hồ Chí Minh từ Trung Quốc trở lại Cao Bằng, kịp thời đưa ra quyết định gì?",
+    "options": {
+      "A": "Chuẩn dị chiến tranh du kích",
+      "B": "Đình chỉ phát động chiến tranh du kích trên quy mô rộng lớn vì chưa đủ điều kiện",
+      "C": "Khởi nghĩa từng phần, giành chính quyền từng bộ phận",
+      "D": "Tổng khởi nghĩa"
+    },
+    "correct_answer": "B",
+    "explanation": "Cuối năm 1944, khi cấp ủy địa phương ở Cao Bắc Lạng muốn phát động chiến tranh du kích trên quy mô ba tỉnh, Hồ Chí Minh đã kịp thời chỉ ra rằng điều kiện chưa cho phép để tránh tổn thất lớn. Thay vào đó, Người chỉ đạo thành lập đội Việt Nam tuyên truyền giải phóng quân để chuẩn bị cho giai đoạn khởi nghĩa sau này."
+  },
+  {
+    "id": 55,
+    "content": "Đại hội VI của Đảng (1986) đã chỉ ra nguyên nhân của mọi nguyên nhân dẫn đến những hạn chế của giai đoạn 1975-1986 là gì?",
+    "options": {
+      "A": "Do quan hệ quốc tế thay đổi, nguồn viện trợ nước ngoài giảm mạnh",
+      "B": "Đi lên chủ nghĩa xã hội từ một nền kinh tế sản xuất nhỏ, lạc hậu",
+      "C": "Do hậu quả nặng nề của chiến tranh kéo dài",
+      "D": "Bệnh chủ quan duy ý chí, lối suy nghĩ và hành động giản đơn, nóng với"
+    },
+    "correct_answer": "D",
+    "explanation": "Nguyên nhân của mọi nguyên nhân dẫn đến những hạn chế của giai đoạn 1975-1986 mà Đại hội VI của Đảng đã chỉ ra là bệnh chủ quan duy ý chí, lối suy nghĩ và hành động giản đơn, nóng vội. Đây là nguyên nhân gốc rễ dẫn đến những sai lầm nghiêm trọng trong chủ trương, chính sách, chiến lược và tổ chức thực hiện, gây ra tình trạng khủng hoảng kinh tế - xã hội."
+  },
+  {
+    "id": 56,
+    "content": "Ban chấp hành Trung ương Đảng họp hội nghị lần thứ nhất (10-1930) tại địa điểm nào?",
+    "options": {
+      "A": "Tại Pác bó (Cao Bang)",
+      "B": "Tại Ma Cao (Trung Quốc)",
+      "C": "Tại Tân Trào (Tuyên Quang)",
+      "D": "Tại Hương Cảng (Trung Quốc)"
+    },
+    "correct_answer": "D",
+    "explanation": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương lâm thời Đảng Cộng sản Việt Nam họp vào tháng 10 năm 1930 tại Hương Cảng (tức Hồng Kông), Trung Quốc."
+  },
+  {
+    "id": 57,
+    "content": "Hội nghị nào của Đảng đề ra đường lối cho cách mạng miền Nam được ví với hình ảnh \"mỗi lửa trên đồng cỏ khô”?",
+    "options": {
+      "A": "Hội nghị Trung ương 12 - Khóa II của Đảng (3-1957)",
+      "B": "Hội nghị Trung ương 15 - Khóa II của Đảng (1-1959)",
+      "C": "Hội nghị Trung ương 13 - Khóa II của Đảng (12-1957)",
+      "D": "Hội nghị Trung ương 14 - Khóa II của Đảng (11-1958)"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "content": "Giai cấp nào sau đây là lực lượng kiên quyết và triệt để nhất trong cuộc đấu tranh chống thực dân Pháp áp bức, bóc lột nhân dân ta?",
+    "options": {
+      "A": "Giai cấp tiểu tư sản",
+      "B": "Giai cấp công nhân",
+      "C": "Giai cấp tư sản dân tộc",
+      "D": "Giai cấp nông dân"
+    },
+    "correct_answer": "B",
+    "explanation": "Giai cấp công nhân là lực lượng kiên quyết và triệt để nhất trong đấu tranh chống thực dân Pháp áp bức, bóc lột nhân dân ta. Lý do là vì giai cấp công nhân là đại diện cho lực lượng sản xuất tiên tiến, có tổ chức và kỷ luật, được trang bị tư tưởng cách mạng và có sứ mệnh lịch sử là đấu tranh cho sự giải phóng của mình và toàn dân tộc."
+  },
+  {
+    "id": 59,
+    "content": "Nước ta đã ra khỏi khủng hoảng kinh tế - xã hội, nhưng một số mặt còn chưa vững chắc Là nhận định của Đảng ta ở Đại hội nào?",
+    "options": {
+      "A": "Đại hội VIII (1996)",
+      "B": "Đại hội VII (1991)",
+      "C": "Đại hội X (2006)",
+      "D": "Đại hội IX (2001)"
+    },
+    "correct_answer": "A",
+    "explanation": "Đại hội VII (1991): Đặt nền móng cho công cuộc đổi mới với Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội.Đại hội VIII (1996): Khẳng định nước ta đã thoát khỏi khủng hoảng kinh tế - xã hội và đặt ra mục tiêu tiếp tục đẩy mạnh công nghiệp hóa, hiện đại hóa.Đại hội IX (2001): Nhấn mạnh những thành tựu đã đạt được sau 15 năm đổi mới, đồng thời nhận diện những thách thức và đặt ra mục tiêu phát triển kinh tế tri thức.Đại hội X (2006): Đề ra các quyết sách quan trọng cho sự phát triển của đất nước trong giai đoạn mới."
+  },
+  {
+    "id": 60,
+    "content": "Sự khác nhau trong nội dung công nghiệp hóa của Đại hội IV (12/1976) và Đại hội V (3/1982) là gì?",
+    "options": {
+      "A": "Đại hội IV và V đều coi trọng công nghiệp năng",
+      "B": "Đại hội IV ưu tiên phát triển công nghiệp năng còn Đại hội V coi nông nghiệp là mặt trận hàng đầu",
+      "C": "Đại hội IV và V đều ưu tiên phát triển công nghiệp năng nhang Đại hội V chú ý đến vi trí của nông nghiệp hơn.",
+      "D": "Đại hội V coi trọng công nghiệp năng còn Đại hội IV coi trong nông nghiệp."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  }
+]

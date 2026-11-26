@@ -1,0 +1,661 @@
+[
+  {
+    "id": 1,
+    "content": "Vn đặt quan hệ ngoại giao với TQ, Liên xô và 1 số nướcs khác vào thời điểm nào",
+    "options": {
+      "A": "1950",
+      "B": "1948",
+      "C": "1945",
+      "D": "1953"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 156, chương 2.1"
+  },
+  {
+    "id": 2,
+    "content": "cần kiệm để CNH, khắc phục chạy theo “ xã hội tiêu dùng “ nêu ra ở đại hội nào",
+    "options": {
+      "A": "DH 8",
+      "B": "DH 10",
+      "C": "DH 9",
+      "D": "DH 11"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 288, chương 3.II.2a"
+  },
+  {
+    "id": 3,
+    "content": "hiệp định nào đánh dấu triều đình nhà Nguyễn đầu hàng TD Pháp",
+    "options": {
+      "A": "Vecxay",
+      "B": "Glo ne vo",
+      "C": "Pa to not",
+      "D": "Hác măng"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 38 chương 1.1.1.b"
+  },
+  {
+    "id": 4,
+    "content": "yếu tố cơ bản cho sự phát triển nhanh và bền vững trong CNH HĐH ở ĐH 8 là gì",
+    "options": {
+      "A": "Công nghệ hiện đại",
+      "B": "Tranh thủ nguồn lực bên ngoài",
+      "C": "KHCN",
+      "D": "Phát huy nguồn lực con người"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 290 chương 3. II. 2a"
+  },
+  {
+    "id": 5,
+    "content": "tác phẩm nào được coi như \" cuốn sách giáo khoa đầu tiên” của Người dạy các chiến sĩ yêu nước vN làm cách mạng",
+    "options": {
+      "A": "Đường cách mệnh",
+      "B": "Chính cương vắn tắt",
+      "C": "Sách lược vắn tắt",
+      "D": "bản án chế độ thực dân Pháp"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 57, chương 1.2"
+  },
+  {
+    "id": 6,
+    "content": "C&acirc;u n&oacute;i: \" Chiến tranh c&oacute; thể k&eacute;o dài 5 năm, 10 năm, 20 năm hoặc l&acirc;u hơn nữa. Hà Nội, Hải Ph&ograve;ng và một số thành phố, x&iacute; nghiệp c&oacute; thể bị tàn phá, song nh&acirc;n d&acirc;n Việt Nam quyết kh&ocirc;ng sợ! Kh&ocirc;ng c&oacute; g&igrave; qu&yacute; hơn độc lập, tự do, đến ngày thắng lợi nh&acirc;n d&acirc;n ta sẽ x&acirc;y dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn! \" của Chủ tịch Hồ Ch&iacute; Minh là vào thời gian nào?",
+    "options": {
+      "A": "17/7/1968",
+      "B": "17/7/1965",
+      "C": "17/7/1966",
+      "D": "17/7/1967"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 211, chương 2.II.2b"
+  },
+  {
+    "id": 7,
+    "content": "ai là người dẫn đoàn đi ký hiệp định Giơ ne vo:",
+    "options": {
+      "A": "HCM",
+      "B": "Phạm Văn Đồng.",
+      "C": "Lê Hồng Phong",
+      "D": "Trần Phú"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 174, chương 2.1.3c"
+  },
+  {
+    "id": 8,
+    "content": "vn \" là bạn, là đối tác ..... .\" ở đại hội nào",
+    "options": {
+      "A": "ĐH 9",
+      "B": "ĐH 10",
+      "C": "ĐH 7",
+      "D": "ĐH 6"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 300, chương 3. II. 2a"
+  },
+  {
+    "id": 9,
+    "content": "Luật cải cách ruộng đất được QH khóa 1 thông qua vào thời gian nào",
+    "options": {
+      "A": "1952",
+      "B": "1954",
+      "C": "1953",
+      "D": "1951"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 184, chương 2.II.1a"
+  },
+  {
+    "id": 10,
+    "content": "HN nào được xem là \" tuyên ngôn văn hóa Đảng \" trong tk đẩy mạnh CNH HĐH",
+    "options": {
+      "A": "NQTW 7 khóa X",
+      "B": "NQTW 8 khóa XI",
+      "C": "NQTW9 khóa XI",
+      "D": "NQTW 5 khóa VIII"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 295, chương 3.II.1c"
+  },
+  {
+    "id": 11,
+    "content": "Vì sao ra đời ở một nước thuộc địa nửa phong kiến, GCCN Việt Nam lại có đặc điểm của giai cấp quốc tế?",
+    "options": {
+      "A": "Là sản phẩm của cuộc đấu tranh giai cấp nước ta",
+      "B": "Là sản phẩm của nền công nghiệp Pháp khi khai thác thuộc địa ở nước ta",
+      "C": "Là sản phẩm của cuộc đấu tranh dân tộc ở nước ta",
+      "D": "Là sản phẩm của giai cấp tư sản dân tộc VN"
+    },
+    "correct_answer": "B",
+    "explanation": "Là sản phẩm của nền công nghiệp Pháp khi khai thác thuộc địa ở Việt Nam"
+  },
+  {
+    "id": 12,
+    "content": "Nhận thức mang tính giác ngộ đầu tiên của Nguyễn Tất Thành",
+    "options": {
+      "A": "Ở đâu bọn đề quốc TD cũng tàn bạo, độc ác, ở đầu NLD cũng bị bóc lột dã man.",
+      "B": "Chủ nghĩa Uynxơn cũng là trò bịp bợm lớn",
+      "C": "Muốn cứu nước và giải phóng dân tộc không có con đường nào ngoài cm vô sản",
+      "D": "CN đế quốc là con đỉa 2 vòi"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 50, chương 1.1.2"
+  },
+  {
+    "id": 13,
+    "content": "HCM gửi thư cho đồng bào toàn quốc, thông báo chủ trương của Đảng về triệu tập ĐBQD vào",
+    "options": {
+      "A": "1945",
+      "B": "1944",
+      "C": "1941",
+      "D": "1943"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 103, chương 1.II.3d"
+  },
+  {
+    "id": 14,
+    "content": "Hội nghị trung ương lần thứ nhất 10/1930 quyết định",
+    "options": {
+      "A": "Thủ tiêu ctrinh của đảng",
+      "B": "thủ tiêu quyết định của đảng",
+      "C": "thủ tiêu nội dung văn kiện",
+      "D": "thủ tiêu chánh cương sách lược và điều lệ cũ của đáng"
+    },
+    "correct_answer": "D",
+    "explanation": "Quyết định thủ tiêu Chánh cương, Sách lược và Điều lệ cũ của Đảng"
+  },
+  {
+    "id": 15,
+    "content": "Cuối T8/1945, quân đội nào đã có mặt trên lãnh thổ VN",
+    "options": {
+      "A": "Anh, Tưởng",
+      "B": "Anh, Pháp",
+      "C": "Pháp, tưởng",
+      "D": "Nhật, Pháp, Tưởng anh"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 130, 131; chương 2.1.1a"
+  },
+  {
+    "id": 16,
+    "content": "Thực hiện chính sách 4 giảm ở Hội nghị nào",
+    "options": {
+      "A": "HNTW 2 khóa VI",
+      "B": "HNTW 8 khóa V",
+      "C": "HNTW 6 khóa V",
+      "D": "HNTW 3 khóa VI"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 266, chương 3.II.1a"
+  },
+  {
+    "id": 17,
+    "content": "Hình ảnh mồi lửa trên đồng cỏ khô\"",
+    "options": {
+      "A": "HNTW 15 khóa 2",
+      "B": "12 khóa 2",
+      "C": "13 khóa 2"
+    },
+    "correct_answer": "A",
+    "explanation": "Chỉ tinh thần bùng nổ của phong trào Đồng khởi (HNTW 15 khóa II)"
+  },
+  {
+    "id": 18,
+    "content": "Chiến Tranh đơn phương chấm dứt sự kiện nào",
+    "options": {
+      "A": "Xô viết nghệ tĩnh",
+      "B": "cứu nước giải phóng dân tộc",
+      "C": "vận động dân chủ",
+      "D": "p trào đồng khởi"
+    },
+    "correct_answer": "D",
+    "explanation": "Phong trào Đồng Khởi làm phá sản chiến lược chiến tranh đơn phương của Mỹ"
+  },
+  {
+    "id": 19,
+    "content": "Cuộc vận động học tập và làm theo tấm gương đạo đức HCM\" trong toàn đảng, toàn dân được tổ chức từ năm nào?",
+    "options": {
+      "A": "2003",
+      "B": "2007",
+      "C": "2006.",
+      "D": "2005"
+    },
+    "correct_answer": "C",
+    "explanation": "Chỉ thị số 06-CT/TW ngày 7/11/2006 của Bộ Chính trị"
+  },
+  {
+    "id": 20,
+    "content": "Tác phẩm Đường cách mệnh của NAQ nêu lên bao nhiêu điều",
+    "options": {
+      "A": "24",
+      "B": "21",
+      "C": "23",
+      "D": "25"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 430, phần Kết luận"
+  },
+  {
+    "id": 21,
+    "content": "Đội VN giải phóng quân do VNG tổ chức ra đời ở CB vào thời gian nào",
+    "options": {
+      "A": "22.12.1944",
+      "B": "22.12.1943",
+      "C": "22.12.1942",
+      "D": "22.12.1941"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 104, chương 1.II.2b"
+  },
+  {
+    "id": 22,
+    "content": "Khi TD Pháp tấn công lên Việt Bắc thu đông năm 47, Đảng đã có chỉ thị gi",
+    "options": {
+      "A": "phòng ngự trước, tiến công sau",
+      "B": "đánh nhanh thắng nhanh",
+      "C": "phá tan cuộc tấn công mùa đông của giặc Pháp",
+      "D": "thực hiện tiến công chiến lược."
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 154, chương 2.1"
+  },
+  {
+    "id": 23,
+    "content": "Sự kiện nào đánh dấu NAQ chính thức trở thành NCS Pháp",
+    "options": {
+      "A": "Tham gia sáng lập ĐCS Pháp",
+      "B": "Sáng lập đcs Việt Nam",
+      "C": "Tham dự đại hội II QTCS",
+      "D": "Sau khi đọc sơ thảo lần thứ nhất"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 51, chương 1.1.2"
+  },
+  {
+    "id": 24,
+    "content": "Hội văn hóa VN được thành lập vào ngày nào",
+    "options": {
+      "A": "30.7.1948",
+      "B": "20.7.1948",
+      "C": "24.7.1948",
+      "D": "25.7.1948"
+    },
+    "correct_answer": "D",
+    "explanation": "(Câu 36 không có ghi chú giải thích cụ thể trong file)"
+  },
+  {
+    "id": 25,
+    "content": "cuối 19 đầu 20 ptr giải phóng dân tộc diễn ra mạnh mẽ nhất ở đâu",
+    "options": {
+      "A": "các nước thuộc địa",
+      "B": "nước công nghiệp phtr",
+      "C": "nước nông nghiệp lạc hậu",
+      "D": "nước tư bản phtr trung bình"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 36, 37, chương 1.1.1a"
+  },
+  {
+    "id": 26,
+    "content": "báo cáo chính trị đại hội 10 nêu lên mấy bài học kinh nghiệm",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 311, chương 3.II.2c"
+  },
+  {
+    "id": 27,
+    "content": "Hội Văn hóa cứu quốc VN ra đời vào",
+    "options": {
+      "A": "1944",
+      "B": "1943",
+      "C": "1942",
+      "D": "1941"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 102, chương 1.II.3b"
+  },
+  {
+    "id": 28,
+    "content": "Trung ương ra thông cáo \"Cuộc chiến tranh Thái Bình Dương và trách nhiệm cần kíp của Đảng\" vào tháng năm nào?",
+    "options": {
+      "A": "1941",
+      "B": "1940",
+      "C": "1942",
+      "D": "1945"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 92, chương 1.II.3a"
+  },
+  {
+    "id": 29,
+    "content": "Cuộc khủng hoảng nội chính các chính quyền Sài Gòn diễn ra trong thời gian nào?",
+    "options": {
+      "A": "1960-62",
+      "B": "1958-60",
+      "C": "1965-67",
+      "D": "1963-65"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 204, chương 2.II"
+  },
+  {
+    "id": 30,
+    "content": "năm 2015, VN đã thiết lập quan hệ đối tác chiến lược với bao nhiêu nước",
+    "options": {
+      "A": "10",
+      "B": "15",
+      "C": "20",
+      "D": "25"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 365, chương 3.II.2d"
+  },
+  {
+    "id": 31,
+    "content": "“ Muốn cứu nước và giải phóng dân tộc không có con đường nào khác con đường cách mạng vô sản\".",
+    "options": {
+      "A": "Năm 1920 Paris",
+      "B": "Năm 1945 ở Hà Nội",
+      "C": "1959 ở hà Nội",
+      "D": "1920 ở Mat-xco va"
+    },
+    "correct_answer": "A",
+    "explanation": "Khẳng định con đường cứu nước duy nhất tại Đại hội Tour (năm 1920)"
+  },
+  {
+    "id": 32,
+    "content": "Cuộc tổng giao chiến lịch sử mở đầu cho cuộc kháng chiến chống TD Pháp của quân và dân ta ở Hà Nội đã diễn ra trong bnhiêu ngày đêm?",
+    "options": {
+      "A": "12",
+      "B": "45",
+      "C": "30",
+      "D": "60"
+    },
+    "correct_answer": "D",
+    "explanation": "Cuộc chiến đấu 60 ngày đêm bảo vệ Thủ đô Hà Nội"
+  },
+  {
+    "id": 33,
+    "content": "Hội nghị lần thứ nhất của BCHTW Đảng họp 10/1930 tại HC (TQ) thông qua văn kiện gì",
+    "options": {
+      "A": "Luận cương chính tn của ĐCS ĐÔNG dương",
+      "B": "Lời kêu gọi của đảng",
+      "C": "điều lệ đảng",
+      "D": "chánh cương của đảng"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 75, chương 1.II.1b"
+  },
+  {
+    "id": 34,
+    "content": "ngày 13/8/1945 TW Đảng và Việt Minh thành lập",
+    "options": {
+      "A": "Chính phủ lâm thời",
+      "B": "Uy ban khởi nghĩa toàn quốc",
+      "C": "Ủy ban lâm thời",
+      "D": "Ủy ban kháng chiến toàn quốc"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 111 chương 1.II.2d"
+  },
+  {
+    "id": 35,
+    "content": "ĐH 3 của đảng cộng sản VN xác định nhiệm vụ trọng tâm suốt thời kì quá độ ở nước ta là",
+    "options": {
+      "A": "CNH HĐH đất nước",
+      "B": "CNH, XHCN",
+      "C": "Xây dựng KTTT định hướng XHCN",
+      "D": "Hội nhập kinh tế sâu rộng"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 195, 196 chương 2.II"
+  },
+  {
+    "id": 36,
+    "content": "ĐH đại biểu toàn quốc lần thứ 6 của Đảng đã đề ra đường lối đổi mới, trong đó trọng tâm của đổi mới về kinh tế là gì?",
+    "options": {
+      "A": "Thực hiện cơ cấu kinh tê nhiều thành phần, xóa bỏ cơ chế tập trung bao cấp",
+      "B": "Phát triển KTTT định hướng XHCN",
+      "C": "đẩy mạnh CNH HĐH",
+      "D": "Ưu tiên phát triển cn nặng và quốc phòng"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh 262, chương 3.II"
+  },
+  {
+    "id": 37,
+    "content": "Thực hiện hiệu quả tiến trình hội nhập kinh tế quốc tế, giữ vững ổn định chính trị - xã hội .... là đại hội nào",
+    "options": {
+      "A": "NQ HNTW 5 khóa 12 (5/2017)",
+      "B": "NQ HNTW 4 khóa 12 (10/2016)",
+      "C": "NQ HNTW 6 khóa 12 (10/2017)",
+      "D": "văn kiện đại hội XII (1/016)"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình, chương 3, phần II, 2.d. Đại hội 12"
+  },
+  {
+    "id": 38,
+    "content": "ctrinh đổi mới kế hoạch hóa .... làm cho sản xuất bung ra \" được nêu ở hội nghị nào của BCH TW khóa 4",
+    "options": {
+      "A": "HN lần 6",
+      "B": "HN lần 7",
+      "C": "HN lần 8",
+      "D": "HN lần 5"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 246, 247; chương 3.1.1b"
+  },
+  {
+    "id": 39,
+    "content": "Chiến lược mạng nhện được TD Pháp áp dụng tại địa bàn nào",
+    "options": {
+      "A": "Việt Bắc",
+      "B": "Nam Bộ",
+      "C": "Trung Bộ",
+      "D": "Tây Nguyên"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 158, chương 2.1.2b"
+  },
+  {
+    "id": 40,
+    "content": "Văn kiện đánh dấu sự ra đời chính thức của CN mác :",
+    "options": {
+      "A": "Nhà nước và c/m",
+      "B": "Chống đuyrinh",
+      "C": "Tư bản",
+      "D": "Tuyên ngôn của ĐCS"
+    },
+    "correct_answer": "D",
+    "explanation": "Tuyên ngôn của Đảng Cộng sản (tháng 2/1848)"
+  },
+  {
+    "id": 41,
+    "content": "Mỹ bắt đầu rải chất độc da cam xuống miền Nam VN khi nào",
+    "options": {
+      "A": "1964",
+      "B": "1965",
+      "C": "1961",
+      "D": "1968"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 201, chương 2.II.1b"
+  },
+  {
+    "id": 42,
+    "content": "XHVN dưới ách thống trị của TD Pháp có mấy mâu thuẫn chủ yếu",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "B",
+    "explanation": "Gồm mâu thuẫn dân tộc (với đế quốc Pháp) và mâu thuẫn giai cấp (với địa chủ phong kiến)"
+  },
+  {
+    "id": 43,
+    "content": "Hội nghị Ban chấp hành Trung ương lần thứ nhất của Đảng Cộng sản Đông Dương 10/1930 đã bầu đồng chí nào làm Tổng Bí thư?",
+    "options": {
+      "A": "Hà Huy Tập",
+      "B": "Trần Phú",
+      "C": "Lê Hồng Phong",
+      "D": "Trịnh Đình Cửu"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 75, chương 1.II.1b"
+  },
+  {
+    "id": 44,
+    "content": "Mở rộng địa giới hành chính thủ đô HN đưa ra thời điểm nào",
+    "options": {
+      "A": "2006",
+      "B": "2007",
+      "C": "2008",
+      "D": "2009"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 325, chương 3.II"
+  },
+  {
+    "id": 45,
+    "content": "Mặt trận Việt Minh ra đời vào",
+    "options": {
+      "A": "19.5.1944",
+      "B": "19.5.1941",
+      "C": "19.5.1946",
+      "D": "19.5.1942"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 100, chương 1.I.3b"
+  },
+  {
+    "id": 46,
+    "content": "giai cấp có số lượng đông đảo nhất trong XHVN dưới thời tơ Pháp thống trị",
+    "options": {
+      "A": "GC công nhân",
+      "B": "GC nông dân",
+      "C": "GC tư sản",
+      "D": "GC địa chủ phong kiến"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 41, chương 1.1.1b"
+  },
+  {
+    "id": 47,
+    "content": "Thực hiện hiệu quả qtr hội nhập kinh tế quốc tế, giữ vững ổn định chính trị xã hội trong bối cảnh nước ta tham gia các hiệp định thương mại thế hệ mới",
+    "options": {
+      "A": "2016",
+      "B": "2011",
+      "C": "2007",
+      "D": "2014"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 373, chương 3.II.2d"
+  },
+  {
+    "id": 48,
+    "content": "Chủ tịch Hồ Chí Minh khẳng định Lịch sử Đảng Cộng sản Việt Nam là gì?",
+    "options": {
+      "A": "Cả một kho lịch sử bằng vàng",
+      "B": "Kho lịch sử",
+      "C": "pho lịch sử bằng vàng",
+      "D": "pho lịch sử vĩ đại"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 33, chương nhập môn"
+  },
+  {
+    "id": 49,
+    "content": "Mãi mãi được ghi vào lịch sử dân tộc ta một trong những trang chói lọi nhất, ..TK XX\"",
+    "options": {
+      "A": "Kháng chiến chống mỹ",
+      "B": "Kc chống Pháp",
+      "C": "CM TB",
+      "D": "chiến dịch ĐBP"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình, chương 3, phần I, 1.b. Đại hội IV, phần tổng kết về cuộc kháng chiến chống Mỹ cứu nước."
+  },
+  {
+    "id": 50,
+    "content": "Bảo Đại thoái vị và giao nộp ấn, kiếm cho đại diện Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa vào thời gian nào",
+    "options": {
+      "A": "28.8.1945",
+      "B": "29.8. 1945",
+      "C": "31.8. 1945",
+      "D": "30. 8.1945"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 116, chương 1.II.3a"
+  },
+  {
+    "id": 51,
+    "content": "Coi nền kinh tế có nhiều thành phần là 1 đặc trưng của thời kỳ quá độ bắt đầu được đưa ra ở đại hội mấy",
+    "options": {
+      "A": "8",
+      "B": "7",
+      "C": "5",
+      "D": "6"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 299 chương 3.II.2b"
+  },
+  {
+    "id": 52,
+    "content": "Hội văn hóa cứu quốc VN ra đời năm nào",
+    "options": {
+      "A": "1944",
+      "B": "1945",
+      "C": "1946",
+      "D": "1947"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 102, chương 1.II.3b"
+  },
+  {
+    "id": 53,
+    "content": "Văn kiện chung quanh vấn đề chính sách mới vào thời gian nào",
+    "options": {
+      "A": "10.1936.",
+      "B": "10.1937",
+      "C": "10.1938",
+      "D": "10.1939"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 86, 87; chương 1.II"
+  },
+  {
+    "id": 54,
+    "content": "Văn hóa phải được đặt ngang hàng với kinh tế, chính trị, xã hội là quan điểm của đảng trong:",
+    "options": {
+      "A": "Văn kiện đh XI",
+      "B": "Nghị quyết TW 9 khóa 11",
+      "C": "5 khóa 8",
+      "D": "2 khóa 8"
+    },
+    "correct_answer": "B",
+    "explanation": "Nghị quyết Trung ương 9 khóa XI về xây dựng văn hóa, con người Việt Nam"
+  },
+  {
+    "id": 55,
+    "content": "Chiến lược Việt Nam hóa chiến tranh chấm dứt với sk nào",
+    "options": {
+      "A": "Chiến dịch Hcm",
+      "B": "cơ Điện Biên Phủ trên không",
+      "C": "Cd Biên Giới",
+      "D": "Cd Điện Biên Phủ"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 232, chương 2.II.2c"
+  }
+]

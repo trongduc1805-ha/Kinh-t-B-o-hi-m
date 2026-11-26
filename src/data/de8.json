@@ -1,0 +1,265 @@
+[
+  {
+    "id": 1,
+    "content": "Tờ báo nào do Nguyễn Ái Quốc thành lập đánh dấu sự ra đời của báo chí cách mạng Việt Nam?",
+    "options": {
+      "A": "Búa liềm",
+      "B": "Lao động",
+      "C": "Người cùng khổ",
+      "D": "Thanh niên"
+    },
+    "correct_answer": "D",
+    "explanation": "Báo Thanh Niên do Nguyễn Ái Quốc sáng lập vào năm 1925 đã đánh dấu sự ra đời của báo chí cách mạng Việt Nam."
+  },
+  {
+    "id": 2,
+    "content": "Sau khi bị thực dân Pháp thống trị, xã hội Việt Nam thêm mấy giai cấp?",
+    "options": {
+      "A": "4 giai cấp, tầng lớp",
+      "B": "3 giai cấp, tầng lớp",
+      "C": "2 giai cấp, tầng lớp",
+      "D": "1 giai cấp, tầng lớp"
+    },
+    "correct_answer": "B",
+    "explanation": "Chính sách cai trị và khai thác bóc lột của thực dân Pháp đã làm phân hoá những giai cấp vốn là của chế độ phong kiến, đồng thời hình thành những giai cấp, tầng lớp mới (công nhân, tư sản dân tộc, tiểu tư sản) → thêm 3 giai cấp/tầng lớp mới (trang 43)"
+  },
+  {
+    "id": 3,
+    "content": "Ban Chấp hành Trung ương Đảng họp hội nghị lần thứ nhất (10–1930) tại:",
+    "options": {
+      "A": "Tân Trào (Tuyên Quang)",
+      "B": "Pác Bó (Cao Bằng)",
+      "C": "Hương Cảng (Trung Quốc)",
+      "D": "Ma Cao (Trung Quốc)"
+    },
+    "correct_answer": "C",
+    "explanation": "Từ ngày 14 đến ngày 31/10/1930, Ban Chấp hành Trung ương họp Hội nghị lần thứ nhất tại Hương Cảng (Hồng Kông) (trang 75)"
+  },
+  {
+    "id": 4,
+    "content": "Lần đầu tiên Đảng bàn tới vấn đề công nghiệp hoá là ở Đại hội:",
+    "options": {
+      "A": "Đại hội 3",
+      "B": "Đại hội 5",
+      "C": "Đại hội 7",
+      "D": "Đại hội 9"
+    },
+    "correct_answer": "A",
+    "explanation": "Công nghiệp hóa xã hội chủ nghĩa được xem là nhiệm vụ trung tâm trong suốt thời kỳ quá độ ở nước ta... (trang 195-196)"
+  },
+  {
+    "id": 5,
+    "content": "Chiến tranh phá hoại miền Bắc lần 2 của đế quốc Mỹ diễn ra khi nào?",
+    "options": {
+      "A": "1960",
+      "B": "1965",
+      "C": "1972",
+      "D": "1975"
+    },
+    "correct_answer": "C",
+    "explanation": "Từ tháng 4/1972, để ngăn chặn cuộc tiến công chiến lược của quân dân ta ở miền Nam, đế quốc Mỹ đã cho máy bay, tàu chiến tiến hành cuộc chiến tranh phá hoại miền Bắc lần thứ hai hết sức ác liệt. (trang 221)"
+  },
+  {
+    "id": 6,
+    "content": "Ủy ban giải phóng dân tộc Việt Nam được thành lập năm 1945 do ai làm Chủ tịch?",
+    "options": {
+      "A": "Hồ Chí Minh",
+      "B": "Võ Nguyên Giáp",
+      "C": "Trường Chinh",
+      "D": "Lê Duẩn"
+    },
+    "correct_answer": "A",
+    "explanation": "Ủy ban Giải phóng dân tộc Việt Nam được thành lập năm 1945 do Hồ Chí Minh làm Chủ tịch."
+  },
+  {
+    "id": 7,
+    "content": "Đại hội XII đặc biệt chú trọng tập trung lãnh đạo mấy nhiệm vụ trọng tâm?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct_answer": "B",
+    "explanation": "Đại hội XII nhấn mạnh cần tập trung lãnh đạo, chỉ đạo thực hiện có kết quả sáu nhiệm vụ trọng tâm (trang 369-371)"
+  },
+  {
+    "id": 8,
+    "content": "Nội dung đường lối kháng chiến chống thực dân Pháp của ta không được thể hiện trong văn kiện nào?9",
+    "options": {
+      "A": "Bản Chỉ thị Toàn dân kháng chiến của Ban Thường vụ Trung ương Đảng10",
+      "B": "Lời kêu gọi toàn qu11ốc kháng chiến của Chủ tịch Hồ Chí Minh",
+      "C": "Tác phẩm Kháng chiến nhất định thắng lợi của Tổng Bí thư Trường Chinh",
+      "D": "Chỉ thị của Đảng “Phải phá tan cuộc tiến công mùa đông của giặc Pháp” lên Việt Bắc năm 1947"
+    },
+    "correct_answer": "D",
+    "explanation": "Đường lối kháng chiến chống thực dân Pháp của ta được thể hiện trong cả ba văn kiện A, B, C và Chỉ thị D là phương án D. Chỉ thị \"Phải phá tan cuộc tiến công mùa đông của giặc Pháp\" lên Việt Bắc năm 1947 không phải là văn kiện thể hiện đường lối kháng chiến toàn dân, mà là một mệnh lệnh chiến đấu cụ thể."
+  },
+  {
+    "id": 9,
+    "content": "Đại hội đại biểu toàn quốc lần thứ II của Đảng đã xác định nhiệm vụ chủ yếu của cách mạng Việt Nam là gì?",
+    "options": {
+      "A": "Đánh bại thực dân Pháp và bọn can thiệp Mĩ, giành thống nhất độc lập hoàn toàn",
+      "B": "Đánh đổ Pháp và bọn phong kiến tay sai, giành độc lập thống nhất hoàn toàn",
+      "C": "Đánh đổ đế quốc, tư sản mại bản, giành độc lập cho dân tộc",
+      "D": "Đánh bại thực dân Pháp và bọn tay sai, giành chính quyền về tay nhân dân"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "content": "Trong thời kỳ kháng chiến chống Pháp, Việt Nam đã đặt quan hệ ngoại giao với Trung quốc, Liên xô và một số các nước khác vào thời điểm nào?",
+    "options": {
+      "A": "Năm 1948",
+      "B": "Năm 1945",
+      "C": "Năm 1950",
+      "D": "Năm 1953"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "content": "Mục tiêu đấu tranh của phong trào cách mạng 1936 – 1939 là gì?",
+    "options": {
+      "A": "Chống phát xít và nguy cơ chiến tranh, đòi dân sinh, dân chủ, hòa bình",
+      "B": "Đòi quyền tự trị cho Đông Dương",
+      "C": "Chống đế quốc, đòi độc lập.",
+      "D": "Chống phong kiến tay sai, tịch thu ruộng đất của địa chủ, đế quốc chia cho dân cày."
+    },
+    "correct_answer": "A",
+    "explanation": "Mục tiêu đấu tranh chính của phong trào cách mạng 1936-1939 là chống lại bọn phản động thuộc địa và tay sai, đồng thời đối mặt với nguy cơ chiến tranh và đòi các quyền dân chủ, dân sinh."
+  },
+  {
+    "id": 12,
+    "content": "Nhiệm vụ hàng đầu của khoa học lịch sử Đảng là gì?",
+    "options": {
+      "A": "Tổng kết lịch sử của Đảng",
+      "B": "Tái hiện tiến trình lịch sử lãnh đạo, đấu tranh của Đảng",
+      "C": "Trình bày hệ thống Cương lĩnh, đường lối của Đảng",
+      "D": "Khẳng định, chứng minh giá trị khoa học và hiện thực mục tiêu chiến lược"
+    },
+    "correct_answer": "D",
+    "explanation": "Nhiệm vụ hàng đầu là trình bày có hệ thống Cương lĩnh, đường lối của Đảng... khẳng định, chứng minh giá trị khoa học và hiện thực của những mục tiêu chiến lược (trang 21)"
+  },
+  {
+    "id": 13,
+    "content": "Cuộc kháng chiến chống thực dân Pháp (1945 - 1954) giành thắng lợi do nhiều nguyên nhân, trong đó nguyên nhân chủ yếu là gì?",
+    "options": {
+      "A": "Toàn dân đoàn kết, dũng cảm chiến đấu",
+      "B": "Sự đồng tình ủng hộ của Trung Quốc, Liên Xô, của các nước dân chủ nhân dân, nhân dân Pháp và loài người tiến bộ",
+      "C": "Có sự lãnh đạo sáng suốt của Đảng, đứng đầu là Chủ tịch Hồ Chí Minh, với đường lối kháng chiến đúng đắn, sáng tạo"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "content": "Nhiệm vụ then chốt mà Đảng xác định tại Đại hội X là gì?",
+    "options": {
+      "A": "Chống tham",
+      "B": "Phát triển kinh tế",
+      "C": "Hội nhập kinh tế quốc tế",
+      "D": "Xây dựng, chỉnh đốn Đảng"
+    },
+    "correct_answer": "D",
+    "explanation": "Đại hội X xác định nhiệm vụ then chốt là xây dựng, chỉnh đốn Đảng. Đây là thành tố đầu tiên của chủ đề Đại hội (trang 312)"
+  },
+  {
+    "id": 15,
+    "content": "Luận cương chính trị của Đảng Cộng sản Đông Dương xác định giai cấp là động lực chính của cách mạng Việt Nam?",
+    "options": {
+      "A": "Tiểu tư sản và nông dân",
+      "B": "Vô sản và địa chủ",
+      "C": "Tư sản và địa chủ",
+      "D": "Vô sản và nông dân"
+    },
+    "correct_answer": "D",
+    "explanation": "Giai cấp vô sản và nông dân là hai động lực chính của cách mạng tư sản dân quyền, trong đó giai cấp vô sản là động lực chính và mạnh (trang 76)"
+  },
+  {
+    "id": 16,
+    "content": "Chiến lược chiến tranh đơn phương diễn ra trong thời gian nào?",
+    "options": {
+      "A": "1972–1975",
+      "B": "1968–1972",
+      "C": "1961–1965",
+      "D": "1954–1960"
+    },
+    "correct_answer": "D",
+    "explanation": "Chiến tranh đơn phương diễn ra từ năm 1954 đến 1960, Chiến tranh đặc biệt 1961-1965, Chiến tranh cục bộ 1965-1968, Việt Nam hóa chiến tranh 1969-1975"
+  },
+  {
+    "id": 17,
+    "content": "Chiến lược chiến tranh nào của Đế quốc Mỹ và tay sai được triển khai giai đoạn 1954-1960?",
+    "options": {
+      "A": "Chiến tranh đơn phương",
+      "B": "Chiến tranh cục bộ",
+      "C": "Chiến tranh đặc biệt",
+      "D": "Việt Nam hóa chiến tranh"
+    },
+    "correct_answer": "A",
+    "explanation": "Đáp án đúng là A) Chiến tranh đơn phương, được Mỹ triển khai ở miền Nam Việt Nam từ năm 1954 đến năm 1960. Chiến lược này là nhằm sử dụng chính quyền tay sai Ngô Đình Diệm làm công cụ để đàn áp phong trào cách mạng thông qua việc \"tố cộng, diệt cộng\" với lực lượng chủ lực là quân đội Sài Gòn."
+  },
+  {
+    "id": 18,
+    "content": "Sắc lệnh phong quân hàm Đại tướng cho đồng chí Võ Nguyên Giáp được Chủ tịch Hồ Chí Minh ký vào thời gian nào?",
+    "options": {
+      "A": "1947",
+      "B": "1948",
+      "C": "1949",
+      "D": "1950"
+    },
+    "correct_answer": "B",
+    "explanation": "Đầu năm 1948, Chủ tịch Hồ Chí Minh ký sắc lệnh phong quân hàm Đại tướng cho đồng chí Võ Nguyên Giáp cùng Trung tướng Nguyễn Bình và 9 thiếu tướng (trang 155)"
+  },
+  {
+    "id": 19,
+    "content": "Kế hoạch 5 năm thứ nhất được thực hiện trong thời gian nào?",
+    "options": {
+      "A": "1961–1965",
+      "B": "1955–1960",
+      "C": "1945–1950",
+      "D": "1950–1955"
+    },
+    "correct_answer": "A",
+    "explanation": "Đại hội lần thứ III của Đảng đã đề ra và chỉ đạo thực hiện Kế hoạch nhà nước 5 năm lần thứ nhất (1961-1965) (trang 198)"
+  },
+  {
+    "id": 20,
+    "content": "Đại hội V của Đảng (1982) đã đưa ra những nhận thức mới nào sau đây về con đường tiến lên chủ nghĩa xã hội ở nước ta?",
+    "options": {
+      "A": "Coi kinh tế nhiều thành phần là một đặc trưng của thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta",
+      "B": "Điều chỉnh về nội dung, bước đi, cách làm của công nghiệp hóa xã hội chủ nghĩa trong chặng đường đầu tiên",
+      "C": "Xác định 2 nhiệm vụ chiến lược: xây dựng thành công chủ nghĩa xã hội và sẵn sàng chiến đấu, bảo vệ vững chắc Tổ quốc xã hội chủ nghĩa",
+      "D": "Quan niệm về chặng đường đầu tiên của thời kỳ quá độ đi lên chủ nghĩa xã hội ở nước ta"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "content": "Năm 2011, Việt Nam có quan hệ thương mại đầu tư với mấy nước và vùng lãnh thổ?",
+    "options": {
+      "A": "200",
+      "B": "201",
+      "C": "210",
+      "D": "230"
+    },
+    "correct_answer": "D",
+    "explanation": "Đến năm 2010, Việt Nam có quan hệ thương mại đầu tư với 230 nước và vùng lãnh thổ (trang 334)"
+  },
+  {
+    "id": 22,
+    "content": "Tại sao nói hiệp định Giơnevơ 1954 là một thành công nhưng không trọn vẹn?",
+    "options": {
+      "A": "Mĩ không kí vào văn bản cuối cùng của Hiệp định Giơnevơ",
+      "B": "Chưa giải phóng được miền Bắc",
+      "C": "Chưa hoàn thành cách mạng dân tộc dân chủ nhân dân trên phạm vi cả nước",
+      "D": "Lào mới được giải phóng được 2 tỉnh Sầm Nưa và Phongsaly"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  }
+]

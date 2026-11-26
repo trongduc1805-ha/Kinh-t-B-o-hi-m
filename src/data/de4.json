@@ -1,0 +1,719 @@
+[
+  {
+    "id": 1,
+    "content": "Việt Nam và Hoa Kỳ chính thức bình thường hóa quan hệ ngoại giao vào khi nào?",
+    "options": {
+      "A": "1/1994",
+      "B": "5/1994",
+      "C": "7/1995",
+      "D": "12/1995"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 281, chương 3.11.1b"
+  },
+  {
+    "id": 2,
+    "content": "Nhiệm vụ cách mạng Việt Nam giai đoạn 1954-1975 là gì?",
+    "options": {
+      "A": "Xây dựng CNXH ở miền Bắc, chống Anh...",
+      "B": "Xây dựng CNXH ở miền Nam, chống Pháp...",
+      "C": "Xây dựng CNXH ở miền Bắc, kháng chiến chống Mỹ, giải phóng miền Nam, thống nhất đất nước",
+      "D": "Xây dựng CNXH ở miền Bắc, chống Nhật..."
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 180, chương 2 - tiêu đề phần II"
+  },
+  {
+    "id": 3,
+    "content": "Các cuộc khởi nghĩa hưởng ứng chiếu Cần Vương? (Chọn phương án không đúng)",
+    "options": {
+      "A": "Bãi Sậy",
+      "B": "Ba Đình",
+      "C": "Hùng Lĩnh",
+      "D": "Khởi nghĩa Yên Thế"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 45 chương 1.1.1b"
+  },
+  {
+    "id": 4,
+    "content": "Tuyên bố \"Không có gì quý hơn độc lập, tự do\" của Chủ tịch Hồ Chí Minh được đưa ra vào ngày, tháng, năm nào?",
+    "options": {
+      "A": "2/9/1945",
+      "B": "19/12/1946.",
+      "C": "7/5/1954.",
+      "D": "17/7/1966."
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 211, chương 2.II.2b"
+  },
+  {
+    "id": 5,
+    "content": "\"Nâng cao năng lực lãnh đạo... sớm đưa nước ta ra khỏi tình trạng kém phát triển\" là chủ đề Đại hội nào?",
+    "options": {
+      "A": "Đại hội VII",
+      "B": "Đại hội VIII",
+      "C": "Đại hội IX",
+      "D": "Đại hội X"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 310, chương 3.11.2c"
+  },
+  {
+    "id": 6,
+    "content": "Lần đầu tiên Đảng bàn tới vấn đề công nghiệp hóa là ở Đại hội nào?",
+    "options": {
+      "A": "Đại hội 7",
+      "B": "Đại hội 3",
+      "C": "Đại hội 8",
+      "D": "Đại hội 5"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 195, 196, chương 2.II.1b"
+  },
+  {
+    "id": 7,
+    "content": "\"Đại hội của trí tuệ - đổi mới, dân chủ - kỷ cương - đoàn kết\" là chủ đề Đại hội nào?",
+    "options": {
+      "A": "Đại hội VII",
+      "B": "Đại hội V",
+      "C": "Đại hội VI",
+      "D": "Đại hội IV"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 277, chương 3.II.1b"
+  },
+  {
+    "id": 8,
+    "content": "Năm 2010, hai đối tác thương mại và đầu tư lớn nhất của VN là những quốc gia nào?",
+    "options": {
+      "A": "Nhật Bản và Hàn Quốc",
+      "B": "Trung Quốc và Mỹ",
+      "C": "EU và Nhật Bản",
+      "D": "Nga và Trung Quốc"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 334, chương 3.11.2c"
+  },
+  {
+    "id": 9,
+    "content": "Chính cương Đảng Lao động Việt Nam đã nêu ra các nhiệm vụ cơ bản của cách mạng Việt Nam như thế nào?",
+    "options": {
+      "A": "Xoá bỏ di tích phong kiến...",
+      "B": "Đánh đuổi đế quốc xâm lược...",
+      "C": "Phát triển dân chủ nhân dân...",
+      "D": "Cả 3 phương án trên"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 162, 163 chương 2.1.3a"
+  },
+  {
+    "id": 10,
+    "content": "Nòng cốt của nền kinh tế theo định hướng XHCN:",
+    "options": {
+      "A": "kinh tế nhà nước",
+      "B": "kinh tế nông nghiệp",
+      "C": "kinh tế tư nhân",
+      "D": "kinh tế thị trường"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "content": "Âm mưu trước mắt của đế quốc Pháp - Mỹ khi biến Điện Biên Phủ thành trung tâm điểm của kế hoạch Nava là gì?",
+    "options": {
+      "A": "Dựa vào tập đoàn cứ điểm Điện Biên Phủ để kéo dài chiến tranh",
+      "B": "Xây dựng thành tập đoàn cứ điểm mạnh nhằm thu hút chủ lực ta và tiêu diệt chủ lực ta, tạo điều kiện để chúng thực hiện bước 2 của kế hoạch Nava",
+      "C": "Xây dựng thành căn cứ quân sự khổng lồ để đe dọa ta",
+      "D": "Xây dựng thành hậu cứ vững chắc của thực dân Pháp"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 169, chương 2.1.3c"
+  },
+  {
+    "id": 12,
+    "content": "Đại hội đại biểu toàn quốc lần thứ nhất của ĐCS Đông Dương (1935) tổ chức ở đâu?",
+    "options": {
+      "A": "Bến Tre",
+      "B": "Thượng Hải",
+      "C": "Ma Cao",
+      "D": "Quảng Châu"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 82 chương 1.1.1c"
+  },
+  {
+    "id": 13,
+    "content": "Ai là người ký với đại diện chính phủ Pháp bản Hiệp định sơ bộ 6-3-1946?",
+    "options": {
+      "A": "Trường Chinh",
+      "B": "Hồ Chí Minh",
+      "C": "Phạm Văn Đồng",
+      "D": "Võ Nguyên Giáp"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 140, chương 2.1.1c"
+  },
+  {
+    "id": 14,
+    "content": "Đại hội đại biểu toàn quốc lần II (1951) có ý nghĩa như thế nào?",
+    "options": {
+      "A": "ĐH xây dựng CNXH",
+      "B": "ĐH xây dựng và bảo vệ tổ quốc",
+      "C": "ĐH kháng chiến kiến quốc",
+      "D": "ĐH kháng chiến toàn dân"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 165, chương 2.1.3a"
+  },
+  {
+    "id": 15,
+    "content": "Hội nghị Trung ương 8 (5/1941) đã được tổ chức ở địa điểm nào tại Việt Bắc?",
+    "options": {
+      "A": "Pác Bó, Cao Bằng",
+      "B": "Tân Trào",
+      "C": "Chiêm Hóa",
+      "D": "Chợ Chu"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 104, chương 1.ll.3b"
+  },
+  {
+    "id": 16,
+    "content": "Nghị quyết số 36 của BCT về công tác đối với người VN ở nước ngoài ban hành năm nào?",
+    "options": {
+      "A": "2001.",
+      "B": "2003.",
+      "C": "2004.",
+      "D": "2006."
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 307, chương 3.11.2b"
+  },
+  {
+    "id": 17,
+    "content": "“Vấn đề thổ địa là cái cốt của cách mạng tư sản dân quyền\" nêu ở văn kiện nào?",
+    "options": {
+      "A": "Luận cương 10/1930",
+      "B": "Cương lĩnh 2/1930",
+      "C": "Đường Cách mệnh",
+      "D": "Tuyên ngôn độc lập"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 76, chương 1.II.1b"
+  },
+  {
+    "id": 18,
+    "content": "Lời nhân nhượng cuối cùng dành cho Pháp trước 19/12/1946 thể hiện qua văn kiện nào?",
+    "options": {
+      "A": "Thư của Chủ tịch HCM gửi Chính phủ Pháp (9/1946)",
+      "B": "\"Lời kêu gọi toàn quốc kháng chiến\"",
+      "C": "Hiệp định Sơ bộ",
+      "D": "Tuyên ngôn Độc lập"
+    },
+    "correct_answer": "A",
+    "explanation": "Đáp án A . ngày 14/9/1946, Chủ tịch Hồ Chí Minh đã ký với Marius Moutet (M. Mutê) - đại diện Chính phủ Pháp, bản Tạm ưốc 14/9 tại Mácxây (Marseill), đồng ý nhân nhượng thêm cho Pháp một số quyền lợi kinh tế, ván hóa ở Việt Nam; hai bên cam kết đình chỉ chiến sự ở Nam Bộ và tiếp tục đàm phán... B. \"Lời kêu gọi toàn quốc kháng chiến\": Đây là văn kiện đánh dấu sự kết thúc của thời kỳ hòa hoãn và bắt đầu cuộc chiến đấu, không còn là lời \"nhân nhượng\". C. Hiệp định Sơ bộ (6/3/1946): Đây là sự nhân nhượng đầu tiên, không phải cuối cùng. D. Tuyên ngôn Độc lập (2/9/1945): Đây là văn kiện khai sinh ra nước Việt Nam Dân chủ Cộng hòa, mang tính chất khẳng định chủ quyền, không phải văn kiện nhân nhượng."
+  },
+  {
+    "id": 19,
+    "content": "Chiến lược chiến tranh nào được Đế quốc Mỹ và tay sai triển khai từ giai đoạn từ 1968 trở đi?",
+    "options": {
+      "A": "Chiến tranh cục bộ",
+      "B": "Việt Nam hóa chiến tranh",
+      "C": "Chiến tranh đơn phương",
+      "D": "Chiến tranh đặc biệt"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 223, 224 chương 2.11.2b"
+  },
+  {
+    "id": 20,
+    "content": "Yếu tố cơ bản cho sự phát triển nhanh và bền vững trong quan điểm CNH, HĐH của Đảng ở Đại hội VIII (6/1996) là gì?",
+    "options": {
+      "A": "Công nghệ hiện đại",
+      "B": "Tranh thủ tối đa nguồn lực bên ngoài",
+      "C": "Khoa học và công nghệ",
+      "D": "Phát huy nguồn lực con người"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 287, chương 3.11.2a"
+  },
+  {
+    "id": 21,
+    "content": "Chiến thuật mạng nhện được thực dân Pháp áp dụng tại địa bàn nào?",
+    "options": {
+      "A": "Tây Nguyên",
+      "B": "Trung bộ",
+      "C": "Việt Bắc",
+      "D": "Nam bộ"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 158, chương 2.1.2b"
+  },
+  {
+    "id": 22,
+    "content": "Báo cáo Chính trị tại Đại hội XI (2006) nêu ra mấy đột phá chiến lược?",
+    "options": {
+      "A": "2 đột phá",
+      "B": "3 đột phá",
+      "C": "4 đột phá",
+      "D": "5 đột phá"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 349, chương 3.II.2d"
+  },
+  {
+    "id": 23,
+    "content": "Đặc trưng XHCN được Đảng khẳng định trong Cương lĩnh 1991 (Đại hội VII) là gì?",
+    "options": {
+      "A": "Do tầng lớp trí thức làm chủ",
+      "B": "Do giai cấp nông dân làm chủ",
+      "C": "Do giai cấp công nhân làm chủ",
+      "D": "Do nhân dân lao động làm chủ"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 273, chương 3.II.1b"
+  },
+  {
+    "id": 24,
+    "content": "Sự kiện Việt Nam thiết lập quan hệ Đối tác chiến lược với Hà Lan diễn ra vào năm nào?",
+    "options": {
+      "A": "2015",
+      "B": "2016",
+      "C": "2017",
+      "D": "2013"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 349, chương 3.II.2d"
+  },
+  {
+    "id": 25,
+    "content": "Đại hội nào của Đảng Cộng sản Việt Nam đã đưa ra bốn bài học kinh nghiệm lớn về công cuộc đổi mới?",
+    "options": {
+      "A": "Đại hội VI (1986)",
+      "B": "Đại hội V",
+      "C": "Đại hội IV",
+      "D": "Đại hội VII"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "content": "Cuộc khởi nghĩa Yên Bái diễn ra vào thời gian nào?",
+    "options": {
+      "A": "4-1930",
+      "B": "5-1930",
+      "C": "3-1930",
+      "D": "2-1930"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 71, chương 1.II.1a"
+  },
+  {
+    "id": 27,
+    "content": "Cuộc bầu cử Quốc hội đầu tiên (6/1/1946) có ý nghĩa quan trọng nhất là gì?",
+    "options": {
+      "A": "Hợp pháp hóa chính quyền cách mạng",
+      "B": "Làm thất bại âm mưu chia rẽ",
+      "C": "Hoàn thành thống nhất nhà nước",
+      "D": "Củng cố khối đại đoàn kết"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 134, chương 2.1.1b"
+  },
+  {
+    "id": 28,
+    "content": "Cuộc chiến tranh phá hoại lần thứ hai của Mỹ đối với miền Bắc VN diễn ra khi nào?",
+    "options": {
+      "A": "1965-1968",
+      "B": "1972",
+      "C": "1969-1971",
+      "D": "1973"
+    },
+    "correct_answer": "B",
+    "explanation": "1964: chiến tranh phá hoại miền B lần 1, 1972: chiến tranh phá hoại miền B lần 2"
+  },
+  {
+    "id": 29,
+    "content": "Ngày 13-8-1945, Trung ương Đảng và Tổng bộ Việt Minh thành lập tổ chức nào?",
+    "options": {
+      "A": "Ủy ban Khởi nghĩa toàn quốc",
+      "B": "Chính Phủ lâm thời",
+      "C": "Ủy ban Lâm thời",
+      "D": "Ủy ban Kháng chiến toàn quốc"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 111 chương 1.II.2d"
+  },
+  {
+    "id": 30,
+    "content": "Nguyễn Ái Quốc trên đường đi công tác ở Trung Quốc bị quân Trung Hoa dân quốc bắt giữ trong thời gian nào?",
+    "options": {
+      "A": "8/1941 - 9/1942",
+      "B": "8/1943 - 9/1944",
+      "C": "8/1942 - 9/1943",
+      "D": "8/1940 - 9/1941"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 100 chương 1.II.2a"
+  },
+  {
+    "id": 31,
+    "content": "Văn kiện \"Tuyên ngôn Văn hóa\" của Việt Nam được đề ra vào năm nào?",
+    "options": {
+      "A": "1995.",
+      "B": "1996.",
+      "C": "1998.",
+      "D": "2004."
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 295, chương 3.II.2a"
+  },
+  {
+    "id": 32,
+    "content": "Đại hội nào đưa ra sáu bài học kinh nghiệm về thời kỳ đổi mới và phát triển đất nước?",
+    "options": {
+      "A": "Đại hội VI",
+      "B": "Đại hội VII",
+      "C": "Đại hội VIII",
+      "D": "Đại hội IX"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 286, chương 3.11.2a"
+  },
+  {
+    "id": 33,
+    "content": "Việt Nam chính thức bị Pháp cai trị (sau khi triều đình nhà Nguyễn đầu hàng) vào năm nào?",
+    "options": {
+      "A": "1858",
+      "B": "1862",
+      "C": "1883",
+      "D": "1884"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 38, chương 1.1.1b"
+  },
+  {
+    "id": 34,
+    "content": "CNH XHCN là nhiệm vụ trung tâm trong suốt thời kỳ quá độ được khẳng định ở Đại hội Đảng nào?",
+    "options": {
+      "A": "Đại hội 2",
+      "B": "Đại hội 5",
+      "C": "Đại hội 3",
+      "D": "Đại hội 4"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 195, 196, chương 2.II.1b"
+  },
+  {
+    "id": 35,
+    "content": "Đề cương văn hóa Việt Nam năm 1943 chủ trương xây dựng một nền văn hóa mới theo mấy nguyên tắc?",
+    "options": {
+      "A": "3 nguyên tắc",
+      "B": "1 nguyên tắc",
+      "C": "4 nguyên tắc",
+      "D": "2 nguyên tắc"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 101, chương 1.1.3b"
+  },
+  {
+    "id": 36,
+    "content": "Bước ngoặt chuyển sang thời kỳ đẩy mạnh CNH, HĐH được đánh dấu tại Đại hội nào?",
+    "options": {
+      "A": "Đại hội VII",
+      "B": "Đại hội VIII",
+      "C": "Đại hội IX",
+      "D": "Đại hội X"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 288, chương 3.II.2a"
+  },
+  {
+    "id": 37,
+    "content": "Từ khi ra đời cho đến nay, Đảng đã có bao nhiêu cương lĩnh chính trị?",
+    "options": {
+      "A": "6 Cương lĩnh",
+      "B": "4 Cương lĩnh",
+      "C": "5 Cương lĩnh",
+      "D": "7 Cương lĩnh"
+    },
+    "correct_answer": "C",
+    "explanation": "Cương lĩnh 2/1930; 10/1930; 2/1951; 1991; 2011"
+  },
+  {
+    "id": 38,
+    "content": "Cơ quan thường trực của Ban Chỉ đạo Trung ương về phòng, chống tham nhũng?",
+    "options": {
+      "A": "Ban nội chính trung ương",
+      "B": "Ban cơ yếu Chính phủ",
+      "C": "Ban Chấp hành Trung ương Đảng",
+      "D": "Bộ Chính trị"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 356, chương 3.11.2d"
+  },
+  {
+    "id": 39,
+    "content": "Thắng lợi lớn nhất mà nhân dân Việt Nam đạt được trong hiệp định Giơ-ne-vơ về Đông Dương là gì?",
+    "options": {
+      "A": "Ngừng bắn, lập lại hòa bình",
+      "B": "Các nước cam kết tôn trọng các quyền dân tộc cơ bản của ba nước Đông Dương",
+      "C": "Pháp cam kết hàn gắn vết thương chiến tranh",
+      "D": "Ngừng bắn, trao trả tù binh"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 174, 175 chương 2.1.3c"
+  },
+  {
+    "id": 40,
+    "content": "Sau bản Hiệp định sơ bộ, ngày 14-9 Chủ tịch Hồ Chí Minh đã ký bản Tạm ước với Chính phủ Pháp với nội dung nào?",
+    "options": {
+      "A": "Pháp thừa nhận các quyền dân tộc cơ bản...",
+      "B": "Pháp thừa nhận các quyền dân tộc cơ bản...",
+      "C": "Đình chỉ xung đột ở miền Nam và sẽ tiếp tục đàm phán",
+      "D": "Chấm dứt chiến tranh ở Việt Nam"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 142, chương 2.1.1c"
+  },
+  {
+    "id": 41,
+    "content": "\"Đất đai là tài nguyên vô cùng quý giá... nguồn vốn to lớn\" là nhận thức đưa ra vào năm nào?",
+    "options": {
+      "A": "2002",
+      "B": "2003",
+      "C": "2001",
+      "D": "2000"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 303, chương 3.11.2b"
+  },
+  {
+    "id": 42,
+    "content": "Hiệp định ngoại giao kết thúc chiến tranh VN được đàm phán lâu nhất trong lịch sử là hiệp định nào?",
+    "options": {
+      "A": "Hiệp định Pari",
+      "B": "Hiệp định Giơ ne vơ",
+      "C": "Hiệp định Pa tơ nốt",
+      "D": "Hiệp định Sơ bộ"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 227, chương 2.11.2c"
+  },
+  {
+    "id": 43,
+    "content": "“Biến hậu phương của Địch thành hậu phương của ta\" là chỉ đạo đối với vùng nào?",
+    "options": {
+      "A": "Vùng tạm bị chiếm",
+      "B": "Vùng giải phóng",
+      "C": "Vùng lề",
+      "D": "Vùng tranh chấp"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 158, chương 2.1.2b"
+  },
+  {
+    "id": 44,
+    "content": "Chủ trương của Đảng và Chính phủ ta trong chiến lược Đông - Xuân 1953 - 1954 là gì?",
+    "options": {
+      "A": "Tấn công đô thị lớn",
+      "B": "Tấn công nơi tập trung quân",
+      "C": "Tấn công hướng quan trọng mà địch tương đối yếu, buộc chúng phân tán lực lượng đối phó",
+      "D": "Tấn công rừng núi"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 170, chương 2.1.3c"
+  },
+  {
+    "id": 45,
+    "content": "Giai đoạn 1936-1939, nhiệm vụ đấu tranh chủ yếu của Đảng là gì?",
+    "options": {
+      "A": "Đánh đổ đế quốc và phong kiến",
+      "B": "Chống phát xít, chống chiến tranh, đòi dân sinh, dân chủ, cơm áo, hòa bình",
+      "C": "Thành lập Mặt trận dân tộc",
+      "D": "Xây dựng lực lượng vũ trang"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 85, chương 1.II.2a"
+  },
+  {
+    "id": 46,
+    "content": "Nghị quyết 36 khóa IX về công tác đối với người VN ở nước ngoài ban hành vào thời gian nào",
+    "options": {
+      "A": "2001.",
+      "B": "2005",
+      "C": "2004.",
+      "D": "2006."
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 307, chương 3.II.2b"
+  },
+  {
+    "id": 47,
+    "content": "Sắc lệnh phong quân hàm Đại tướng cho Đồng chí Võ Nguyên Giáp được ký vào thời gian nào?",
+    "options": {
+      "A": "1950",
+      "B": "1948",
+      "C": "1949",
+      "D": "1947"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 155, chương 2.1.2a"
+  },
+  {
+    "id": 48,
+    "content": "Câu \"Đảng Cộng sản Việt Nam tổ chức ra để lãnh đạo quần chúng...\" trích từ văn kiện nào?",
+    "options": {
+      "A": "Tuyên ngôn Độc lập",
+      "B": "Hội nghị hợp nhất các tổ chức cộng sản (1930)",
+      "C": "Lời kêu gọi Toàn quốc Kháng chiến",
+      "D": "Luận cương Chính trị (10/1930)"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 63, chương 1.1.3b"
+  },
+  {
+    "id": 49,
+    "content": "Nội dung cơ bản của đường lối kháng chiến chiến chống thực dân Pháp của ta là gì?",
+    "options": {
+      "A": "Toàn dân, toàn diện, tranh thủ sự ủng hộ của quốc tế",
+      "B": "Toàn dân, toàn diện, trường kỳ, tự cánh sinh và tranh thủ sự ủng hộ của quốc tế",
+      "C": "Táo bạo, chớp thời cơ nhanh chóng, tự lực cánh sinh"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 149, chương 2.1.2a"
+  },
+  {
+    "id": 50,
+    "content": "Giai cấp nào được hình thành sau cuộc khai thác thuộc địa lần thứ nhất (1897-1914)?",
+    "options": {
+      "A": "Giai cấp tư sản",
+      "B": "Giai cấp tiểu tư sản",
+      "C": "Giai cấp công nhân",
+      "D": "Giai cấp nông dân"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 41 chương 1.1.1b"
+  },
+  {
+    "id": 51,
+    "content": "Đại hội nào đưa ra hai nhiệm vụ chiến lược: xây dựng CNXH và bảo vệ Tổ quốc XHCN?",
+    "options": {
+      "A": "Đại hội IV (1976)",
+      "B": "Đại hội V (1982)"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 242, chương 3.1.1b - tiêu đề mục b"
+  },
+  {
+    "id": 52,
+    "content": "Thông cáo chiến tranh Thái Bình Dương và vấn đề giành độc lập được đưa ra tại HNTW nào?",
+    "options": {
+      "A": "1940",
+      "B": "1941",
+      "C": "1943",
+      "D": "1945"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 102 chương 1.II.3b"
+  },
+  {
+    "id": 53,
+    "content": "Thực hiện hiệu quả tiến trình hội nhập kinh tế quốc tế, giữ vững ổn định chính trị-xã hội trong bối cảnh nước ta tham gia các hiệp định thương mại thế hệ mới là chủ trương của Đảng ta ở thời điểm nào?",
+    "options": {
+      "A": "2012",
+      "B": "2007",
+      "C": "2016",
+      "D": "2011"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 373, chương 3.II.2d"
+  },
+  {
+    "id": 54,
+    "content": "Hội nghị Ban chấp hành Trung ương lần thứ nhất của ĐCS Đông Dương 10/1930 đã bầu đồng chí nào làm Tổng Bí thư?",
+    "options": {
+      "A": "Đồng chí Trịnh Đình Cửu",
+      "B": "Đồng chí Lê Hồng Phong",
+      "C": "Đồng chí Hà Huy Tập",
+      "D": "Đồng chí Trần Phú"
+    },
+    "correct_answer": "D",
+    "explanation": "Gtrinh trang 75 chương 1.II.1.b"
+  },
+  {
+    "id": 55,
+    "content": "Âm mưu xâm lược lâu dài của Mỹ đối với miền Nam VN là gì?",
+    "options": {
+      "A": "Thuộc địa kiểu cũ",
+      "B": "Thuộc địa kiểu mới, chia cắt lâu dài VN",
+      "C": "Thuộc địa miền Trung",
+      "D": "Thuộc địa miền Bắc"
+    },
+    "correct_answer": "B",
+    "explanation": "Gtrinh trang 180, chương 2.II.1a"
+  },
+  {
+    "id": 56,
+    "content": "Chủ trương \"... mở rộng, đa Đảng hóa, đa phương hóa quan hệ đối ngoại\" được Đảng ta đưa ra tại Hội nghị nào",
+    "options": {
+      "A": "Hội nghị đại biểu toàn quốc giữa nhiệm kỳ khóa VII (1/1994)",
+      "B": "Hội nghị lần thứ 5 BCH TW khóa VII (6/1993)",
+      "C": "Hội nghị lần thứ 2 BCH TW khóa VII (11-12/1991)",
+      "D": "Hội nghị lần thứ 3 BCH TW khóa VII (2/1992)"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "content": "Năm 2015, Việt Nam đã thiết lập quan hệ đối tác chiến lược lĩnh vực với nước nào?",
+    "options": {
+      "A": "Nhật",
+      "B": "Bỉ",
+      "C": "Hà Lan",
+      "D": "Hàn Quốc"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 365, chương 3.II.2d"
+  },
+  {
+    "id": 58,
+    "content": "Tính đến Đại hội XIII (năm 2021), Đảng Cộng sản Việt Nam đã trải qua tổng cộng bao nhiêu vị Tổng Bí thư?",
+    "options": {
+      "A": "12",
+      "B": "10",
+      "C": "9",
+      "D": "13"
+    },
+    "correct_answer": "A",
+    "explanation": "Trần Phú (T10/1930 – T4/1931) Lê Hồng Phong (T3/1935 – T7/1936) Hà Huy Tập (T7/1936 – T3/1938) Nguyễn Văn Cừ (T3/1938 – T11/1940) Trường Chinh (T11/1940 – T10/1956 và T7/1986 – T12/1986) Chủ tịch Hồ Chí Minh (T10/1956 – T9/1960) Lê Duẩn (T9/1960 – T7/1986) Nguyễn Văn Linh (T12/1986 – T6/1991) Đỗ Mười (T6/1991 – T12/1997) Lê Khả Phiêu (T12/1997 – T4/2001)"
+  },
+  {
+    "id": 59,
+    "content": "Nhân dân Nam Bộ đứng lên kháng chiến chống Pháp quay lại lần 2 vào ngày nào?",
+    "options": {
+      "A": "10.12.1946",
+      "B": "15.9.1946",
+      "C": "23.9.1945",
+      "D": "23.11.1945"
+    },
+    "correct_answer": "C",
+    "explanation": "Gtrinh trang 130, chương 2.1.1a"
+  },
+  {
+    "id": 60,
+    "content": "\"...nếu chỉ quan tâm đến sự phát triển của cuộc đấu tranh giai cấp, có thể sẽ nảy sinh khó khăn để mở rộng phong trào dân tộc\" (Nhận thức lại mqh phản đế - điền địa)",
+    "options": {
+      "A": "1936-1939",
+      "B": "1930-1931",
+      "C": "1932-1935",
+      "D": "1939-1945"
+    },
+    "correct_answer": "A",
+    "explanation": "Gtrinh trang 86 chương 1.11.2a"
+  }
+]

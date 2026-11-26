@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "content": "Nhiệm vụ cách mạng Việt Nam dưới sự lãnh đạo của Đảng giai đoạn 1954-1975 là gì?",
+    "options": {
+      "A": "Xây dựng CNXH ở miền Bắc, kháng chiến chống đế quốc Anh xâm lược, giải phóng miền Nam, thống nhất đất nước",
+      "B": "Xây dựng CNXH ở miền Nam, kháng chiến chống đế quốc Pháp xâm lược, giải phóng miền Bắc, thống nhất đất nước",
+      "C": "Xây dựng CNXH ở miền Bắc, kháng chiến chống đế quốc Mỹ xâm lược, giải phóng miền Nam, thống nhất đất nước",
+      "D": "Xây dựng CNXH ở miền Bắc, kháng chiến chống đế quốc Nhật xâm lược, giải phóng miền Nam, thống nhất đất nước"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 180, Chương 2 tiêu đề phần II."
+  },
+  {
+    "id": 2,
+    "content": "Chỉ thị “Nhật - Pháp bắn nhau và hành động của chúng ta” xác định nhiệm vụ trọng tâm là gì?",
+    "options": {
+      "A": "Đòi quyền tự do, dân chủ, cơm áo, hoà bình",
+      "B": "Quyết định xúc tiến chuẩn bị khởi nghĩa vũ trang",
+      "C": "Phát động một cao trào kháng Nhật, cứu nước mạnh mẽ làm tiền đề cho Tổng khởi nghĩa",
+      "D": "Quyết định phát động lệnh Tổng khởi nghĩa"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 106 chương 1."
+  },
+  {
+    "id": 3,
+    "content": "Chiến lược chiến tranh nào triển khai giai đoạn 1965-1968?",
+    "options": {
+      "A": "Chiến tranh đơn phương",
+      "B": "Chiến tranh cục bộ",
+      "C": "Chiến tranh đặc biệt",
+      "D": "Việt Nam hóa chiến tranh"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 209, chương 2."
+  },
+  {
+    "id": 4,
+    "content": "Nước ta bước sang thời kỳ mới đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước là nội dung được khẳng định trong văn kiện nào?",
+    "options": {
+      "A": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH 1991",
+      "B": "Nghị quyết Hội nghị Trung ương 4 khóa VIII (12/1997)",
+      "C": "Báo cáo chính trị của Ban chấp hành trung ương tại Đại hội VIII",
+      "D": "Nghị quyết Hội nghị Trung ương 2 khóa VIII (12/1996)"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 285, và 286."
+  },
+  {
+    "id": 5,
+    "content": "Chủ trương của Đảng ta trong việc đổi phó với quân Tưởng sau Cách mạng tháng Tám là?",
+    "options": {
+      "A": "Đầu hàng quân Tưởng",
+      "B": "Nhân nhượng cho quân Tưởng một số quyền lợi về chính trị và kinh tế",
+      "C": "Nhờ vào Anh để chống quân Tưởng",
+      "D": "Quyết tâm đánh quản Tưởng ngay từ đầu"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 139 chương 2, phần I."
+  },
+  {
+    "id": 6,
+    "content": "Cơ chế quản lý kinh tế ở nước ta trong giai đoạn 1975 - 1986 là gì?",
+    "options": {
+      "A": "Kinh tế thị trường định hướng XHCN",
+      "B": "Kế hoạch hóa tập trung",
+      "C": "Hạch toàn kinh doanh XHCN",
+      "D": "Kinh tế thị trường"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình chương 3 phần 1."
+  },
+  {
+    "id": 7,
+    "content": "Hiệp định Pari về chấm dứt chiến tranh lập lại hòa bình ở Việt Nam được ký khi nào?",
+    "options": {
+      "A": "28 tháng 1 năm 1975",
+      "B": "28 tháng 1 năm 1973",
+      "C": "27 tháng 1 năm 1975",
+      "D": "27 tháng 1 năm 1973"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 227"
+  },
+  {
+    "id": 8,
+    "content": "Chiến thuật mạng nhện được thực dân Pháp áp dụng tại địa bàn nào?",
+    "options": {
+      "A": "Tây Nguyên",
+      "B": "Trung bộ",
+      "C": "Việt Bắc",
+      "D": "Nam bộ"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 158, chương 2, phần 1."
+  },
+  {
+    "id": 9,
+    "content": "Đặc điểm lớn nhất gây khó khăn cho cách mạng giai đoạn sau 1976 là gì?",
+    "options": {
+      "A": "Hòa bình, độc lập, thống nhất, cả nước tiến lên chủ nghĩa xã hội",
+      "B": "Cuộc đấu tranh ai thắng ai giữa thế lực cách mạng và phản cách mạng trên thế giới còn gay go, quyết liệt",
+      "C": "Đất nước bị chia cắt làm hai miền",
+      "D": "Từ nền kinh tế sản xuất nhỏ tiến thắng lên CNXH, bỏ qua giai đoạn phát triển TBCN"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 243, 244, chương 3."
+  },
+  {
+    "id": 10,
+    "content": "Cuộc tổng bãi công của công nhân Bến Thủy-Vinh (8-1930) đánh dấu một thời kỳ như thế nào?",
+    "options": {
+      "A": "\"một thời ký khác\"",
+      "B": "\"một giai đoạn lịch sử vẻ vang\"",
+      "C": "\"một thời kỳ mới, thời kỳ đầu tranh kịch liệt đã đến\"",
+      "D": "\"một dấu mốc quan trọng\""
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 72, chương 1 phần II."
+  },
+  {
+    "id": 11,
+    "content": "Mục tiêu tiến đến nước phát triển và XHCN (đến giữa thế kỷ XXI) là giai đoạn nào?",
+    "options": {
+      "A": "2030",
+      "B": "Giữa TK XXI",
+      "C": "Cuối TK XXI",
+      "D": "2045"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 390 (Đại hội XIII/Đại hội XI bổ sung)."
+  },
+  {
+    "id": 12,
+    "content": "Sắp xếp các chiến lược chiến tranh Mỹ theo trật tự thời gian?",
+    "options": {
+      "A": "Cục bộ, Đơn phương, Đặc biệt, Việt Nam hóa",
+      "B": "Đơn phương, Cục bộ, Đặc biệt, Việt Nam hóa",
+      "C": "Đơn phương, Đặc biệt, Cục bộ, Việt Nam hóa",
+      "D": "Cục bộ, Đặc biệt, Đơn phương, Việt Nam hóa"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình chương, phần II."
+  },
+  {
+    "id": 13,
+    "content": "Năm 1943, Tổng bộ Việt Minh ra văn kiện nào sau đây?",
+    "options": {
+      "A": "Chỉ thị Sửa soạn khởi nghĩa",
+      "B": "Chỉ thị toàn dân nhất tế đứng lên",
+      "C": "Chi thị kháng chiến kiến quốc",
+      "D": "Chi thị toàn dân khởi nghĩa"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình trang 103 chương 1."
+  },
+  {
+    "id": 14,
+    "content": "Chủ nghĩa Mác - Lê nin ra đời năm nào?",
+    "options": {
+      "A": "Tháng 2- 1846",
+      "B": "Tháng 2-1848",
+      "C": "Tháng 2-1849",
+      "D": "Tháng 2-1847"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 426 trong Kết luận."
+  },
+  {
+    "id": 15,
+    "content": "Tháng 3/1935, Đại hội đại biểu lần thứ nhất của Đảng họp ở Ma Cao đã đề ra 3 nhiệm vụ trước mặt. Hãy chọn phương án không đúng?",
+    "options": {
+      "A": "Mở rộng tuyên truyền chống đế quốc, chống chiến tranh, ủng hộ Liên Xô và ủng hộ cách mạng Trung Quốc",
+      "B": "Đẩy mạnh cuộc vận động tập hợp quần chúng",
+      "C": "Củng cố và phát triển Đảng",
+      "D": "Đẩy mạnh khởi nghĩa từng phần, mở rộng căn cứ địa"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 82 chương 1, phần II."
+  },
+  {
+    "id": 16,
+    "content": "Chính cương Đảng Lao động Việt Nam nêu ra các nhiệm vụ cơ bản nào?",
+    "options": {
+      "A": "Xoá bỏ những di tích phong kiến và nửa phong kiến, làm dân cày có ruộng",
+      "B": "Đánh đuổi đế quốc xâm lược, giành độc lập thật sự...",
+      "C": "Phát triển chế độ dân chủ nhân dân, gây cơ sở cho CNXH",
+      "D": "Cả 3 phương án trên"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 161, 163 chương 2."
+  },
+  {
+    "id": 17,
+    "content": "Thực hiện hiệu quả tiến trình hội nhập kinh tế quốc tế... trong bối cảnh tham gia các hiệp định thương mại thế hệ mới là chủ trương năm nào?",
+    "options": {
+      "A": "2012",
+      "B": "2007",
+      "C": "2016",
+      "D": "2011"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 373 (Đại hội XII)."
+  },
+  {
+    "id": 18,
+    "content": "Hội Văn hóa cứu quốc Việt Nam ra đời năm nào?",
+    "options": {
+      "A": "Năm 1945",
+      "B": "Năm 1943",
+      "C": "Năm 1944",
+      "D": "Năm 1941"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 102, chương 1."
+  },
+  {
+    "id": 19,
+    "content": "Sau thất bại Việt Bắc 1947, thực dân Pháp chuyển sang hình thức",
+    "options": {
+      "A": "Đánh lâu dài",
+      "B": "Đánh chắc tiến chắc",
+      "C": "Vừa đánh vừa đàm phán",
+      "D": "Chắc thắng mới đánh"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình chương 2. phần I. mục 2b."
+  },
+  {
+    "id": 20,
+    "content": "Đội Việt Nam tuyên truyền giải phóng quân ra đời vào thời gian nào?",
+    "options": {
+      "A": "26-12-1944",
+      "B": "15-12-1944",
+      "C": "22-12-1944",
+      "D": "12-12-1944"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 102, chương 1."
+  },
+  {
+    "id": 21,
+    "content": "(Về đánh giá Chánh cương vắn tắt tháng 2/1930) \"...phạm sai lầm...”",
+    "options": {
+      "A": "Nguy hiểm",
+      "B": "Rất nghiêm trọng",
+      "C": "Nghiêm trọng",
+      "D": "Rất nguy hiểm"
+    },
+    "correct_answer": "D",
+    "explanation": "Theo file nguồn."
+  },
+  {
+    "id": 22,
+    "content": "(Về Chỉ thị của Ban Trung ương 26/7/1936) Đặt vấn đề nhận thức lại mối quan hệ giữa hai nhiệm vụ phản đế và điền địa...",
+    "options": {
+      "A": "1936-1939",
+      "B": "1930-1931",
+      "C": "1932-1935",
+      "D": "1939-1945"
+    },
+    "correct_answer": "A",
+    "explanation": "Trang 86 (Chỉ thị ngày 26/7/1936)."
+  },
+  {
+    "id": 23,
+    "content": "Pháp buộc phải chuyển sang chiến lược \"đánh lâu dài\" từ khi nào?",
+    "options": {
+      "A": "Từ sau khi chúng mở rộng chiếm đóng đồng bằng Bắc Bộ.",
+      "B": "Từ sau chiến thắng Biên giới 1950.",
+      "C": "Sau thất bại của cuộc tiến công lên Việt Bắc mùa đông 1947",
+      "D": "Từ sau khi kiểm soát hoàn toàn các đô thị Bắc vĩ tuyến 10"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 154 chương 2. phần I."
+  },
+  {
+    "id": 24,
+    "content": "Sắc lệnh phong quân hàm Đại tướng cho Đồng chí Võ Nguyên Giáp được ký vào thời gian nào?",
+    "options": {
+      "A": "1950",
+      "B": "1948",
+      "C": "1949",
+      "D": "1947"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 155, chương 2, phần I."
+  },
+  {
+    "id": 25,
+    "content": "Lãnh tụ Hồ Chí Minh đã dự báo: “Năm 1945 Việt Nam độc lập trong tác phẩm nào sau đây?",
+    "options": {
+      "A": "Đường cách mệnh 1927",
+      "B": "Nhật ký trong tù 1943",
+      "C": "Lịch sử nước ta 1942",
+      "D": "Cương lĩnh đầu tiên 1930"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình 20, chương nhập môn."
+  },
+  {
+    "id": 26,
+    "content": "Nội dung nào sau đây không thuộc nhiệm vụ của khoa học lịch sử Đảng?",
+    "options": {
+      "A": "Tổng kết lịch sử của Đảng",
+      "B": "Trình bày có hệ thống Cương lĩnh, đường lối của Đảng",
+      "C": "Tái hiện tiến trình lịch sử lãnh đạo đấu tranh của Đảng",
+      "D": "Dựng lại các hoạt động của xã hội Việt Nam"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 21, và 22 Chương nhập môn."
+  },
+  {
+    "id": 27,
+    "content": "Vì sao cuộc kháng chiến chống Pháp diễn ra ở các đô thị trước?",
+    "options": {
+      "A": "Quân Pháp không quen địa bản, sẽ thuận lợi cho quân dân ta chiến đấu",
+      "B": "Để giam chân quần Pháp ở các đô thị, bảo vệ cơ quan đầu não và rút dân lực lượng lên",
+      "C": "Đô thi là nơi quân Pháp tập trung đông lực lượng nhất",
+      "D": "Tạo điều kiện cho cơ quan đầu não rút lên căn cứ Việt Bắc an toàn"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 144, chương 1. phần I."
+  },
+  {
+    "id": 28,
+    "content": "Từ khi ra đời đến nay, Đảng đã có bao nhiêu cương lĩnh chính trị?",
+    "options": {
+      "A": "6 Cương lĩnh",
+      "B": "4 Cương lĩnh",
+      "C": "5 Cương lĩnh",
+      "D": "7 Cương lĩnh"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình chương nhập môn (liệt kê 5 bản)."
+  },
+  {
+    "id": 29,
+    "content": "Nội dung chính của chiến lược \"chiến tranh đặc biệt\" là gì?",
+    "options": {
+      "A": "Ấp bình lược",
+      "B": "Ấp mưu lược",
+      "C": "Ấp chiến lược",
+      "D": "Ấp sách lược"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 203, chương 2."
+  },
+  {
+    "id": 30,
+    "content": "Xã hội Việt Nam dưới ách thống trị của thực dân Pháp có mấy mâu thuẫn vừa cơ bản vừa chủ yếu?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "5",
+      "D": "3"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình trang 43 chương 1. phần I. mục 1b."
+  },
+  {
+    "id": 31,
+    "content": "Hội nghị BCH TW lần thứ nhất 10/1930 đã bầu đồng chí nào làm Tổng Bí thư?",
+    "options": {
+      "A": "Đồng chí Trịnh Đình Cửu",
+      "B": "Đồng chí Lê Hồng Phong",
+      "C": "Đồng chí Hà Huy Tập",
+      "D": "Đồng chí Trần Phú"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 75 chương 1, phần II."
+  },
+  {
+    "id": 32,
+    "content": "Lệnh tổng khởi nghĩa toàn quốc được phát đi vào thời gian nào?",
+    "options": {
+      "A": "12 tháng 8 năm 1946",
+      "B": "13 tháng 8 năm 1945",
+      "C": "12 tháng 8 năm 1945",
+      "D": "13 tháng 8 năm 1946"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 111 (Quân lệnh số 1)."
+  },
+  {
+    "id": 33,
+    "content": "Ý nghĩa lớn nhất của chiến thắng chiến dịch Biên giới thu – đông năm 1950 là gì?",
+    "options": {
+      "A": "Là chiến dịch tiến công lớn đầu tiên quân ta giành thắng lợi",
+      "B": "Ta giành được thế chủ động trên chiến trường chính (Bắc Bộ), mở ra bước phát triển mới của cuộc kháng chiến",
+      "C": "Chứng tỏ quân đội ta đã trưởng thành",
+      "D": "Chứng minh sự vững chắc của căn cứ địa Việt Bắc"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 158 chương 2, phần 1."
+  },
+  {
+    "id": 34,
+    "content": "Đại hội IV (1976) xác định đường lối chung không có tiến hành các cuộc cách mạng nào?",
+    "options": {
+      "A": "Cách mạng tư sản dân quyền",
+      "B": "Cách mạng khoa học- kỹ thuật",
+      "C": "Cách mạng về quan hệ sản xuất",
+      "D": "Cách mạng tư tưởng và văn hóa"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình trang 244, chương 3, phần I, mục 1b"
+  },
+  {
+    "id": 35,
+    "content": "Ưu tiên phát triển công nghiệp nặng một cách hợp lý... là nội dung của Đại hội nào?",
+    "options": {
+      "A": "Đai hội IV (1976)",
+      "B": "Đại hội III (1960)",
+      "C": "Đại hội VI (1986)",
+      "D": "Đại hội V (1982)"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình trang 245 (ghi nội dung này từ ĐH IV)."
+  },
+  {
+    "id": 36,
+    "content": "Nghị quyết 04-NQ/TW (30/10/2016) chỉ rõ bao nhiêu biểu hiện “tự diễn biến”, “tự chuyển hóa\"?",
+    "options": {
+      "A": "21",
+      "B": "27",
+      "C": "25",
+      "D": "22"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 382, chương 3."
+  },
+  {
+    "id": 37,
+    "content": "Đại hội đại biểu lần thứ hai của Đảng (2-1951) có ý nghĩa lịch sử như thế nào?",
+    "options": {
+      "A": "Tăng thêm lòng tin của nhân dân",
+      "B": "Đánh dấu bước phát triển mới trong quá trình lãnh đạo và trưởng thành của Đảng...",
+      "C": "Làm cho nhân dân thế giới hiểu về cách mạng Việt Nam",
+      "D": "Nêu cao vai trò lãnh đạo cuộc kháng chiến của Đảng và giai cấp công nhân"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 165, chương 2."
+  },
+  {
+    "id": 38,
+    "content": "Sự kiện nào đánh dấu Nguyễn Ái Quốc chính thức trở thành người Cộng sản?",
+    "options": {
+      "A": "Tham gia sáng lập Đảng cộng sản Pháp",
+      "B": "Sáng lập Đảng Cộng sản Việt Nam",
+      "C": "Tham dự Đại hội 11 Quốc tế cộng sản",
+      "D": "Sau khi đọc Sơ thảo lần thứ nhất luận cương của Lênin"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình trang 51, chương 1, phần I."
+  },
+  {
+    "id": 39,
+    "content": "Chủ trương liên lạc với bị áp bức dân tộc và vô sản giai cấp thế giới được nêu trong văn kiện nào?",
+    "options": {
+      "A": "Lời kêu gọi nhân dịp thành lập Đảng",
+      "B": "Luận cương chính trị tháng 10-1930",
+      "C": "Cương lĩnh chính trị đầu tiên",
+      "D": "Tác phẩm Đường Kách mệnh"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 67, chương 1. phần I."
+  },
+  {
+    "id": 40,
+    "content": "Luận cương chính trị của Đảng Cộng sản Đông Dương được thông qua vào thời gian nào?",
+    "options": {
+      "A": "Tháng 4 năm 1930",
+      "B": "Tháng 10 năm 1930",
+      "C": "Tháng 2 năm 1930",
+      "D": "Tháng 8 năm 1930"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 75 chương 1, phần II."
+  },
+  {
+    "id": 41,
+    "content": "Nội dung nào không thuộc “ba đột phá chiến lược\" mà Đại hội XI đưa ra?",
+    "options": {
+      "A": "Hoàn thiện thể chế KTTT định hướng XHCN",
+      "B": "Phát triển nhanh nguồn nhân lực",
+      "C": "Phát triển nông nghiệp, nông dân nông thôn",
+      "D": "Xây dựng hệ thống kết cấu hạ tầng đồng bộ"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trang 349 chương 3."
+  },
+  {
+    "id": 42,
+    "content": "Đẩy mạnh Công nghiệp hóa XHCN là nhiệm vụ trung tâm trong suốt thời kỳ quá độ được khẳng định ở Đại hội Đảng nào?",
+    "options": {
+      "A": "Đại hội 2",
+      "B": "Đại hội 5",
+      "C": "Đại hội 3",
+      "D": "Đại hội 4"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 244, chương 3 phần I."
+  },
+  {
+    "id": 43,
+    "content": "Phát triển nhanh gắn liền với phát triển bền vững là yêu cầu xuyên suốt trong văn kiện nào?",
+    "options": {
+      "A": "Chiến lược phát triển kinh tế vùng",
+      "B": "Chiến lược phát triển con người",
+      "C": "Chiến lược phát triển kinh tế biển",
+      "D": "Chiến lược phát triển kinh tế - xã hội 2011-2020"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 348, chương 3, phần I."
+  },
+  {
+    "id": 44,
+    "content": "Chiến lược chiến tranh mà Đế quốc Mỹ và tay sai triển khai giai đoạn 1965 - 1968 là gì?",
+    "options": {
+      "A": "Chiến tranh đặc biệt",
+      "B": "Chiến tranh đơn phương",
+      "C": "Chiến tranh cục bộ",
+      "D": "Việt Nam hóa chiến tranh"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình chương 2. phần II mục 2b."
+  },
+  {
+    "id": 45,
+    "content": "Giai cấp công nhân Việt Nam ra đời sau cuộc tập trung khai thuộc địa lần thứ mấy?",
+    "options": {
+      "A": "Lần thứ hai",
+      "B": "Lần thứ nhất",
+      "C": "Lân thứ ba",
+      "D": "Lần thứ tư"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 41 chương 1 phần I."
+  },
+  {
+    "id": 46,
+    "content": "Năm 2015, Việt Nam đã thiết lập quan hệ đối tác chiến lược lĩnh vực với nước nào?",
+    "options": {
+      "A": "Nhật",
+      "B": "Mỹ",
+      "C": "Hà Lan",
+      "D": "Hàn Quốc"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 365."
+  },
+  {
+    "id": 47,
+    "content": "Nước Cộng hòa xã hội chủ nghĩa Việt Nam gia nhập Liên Hợp Quốc vào thời gian nào?",
+    "options": {
+      "A": "1975",
+      "B": "1976",
+      "C": "1977",
+      "D": "1978"
+    },
+    "correct_answer": "C",
+    "explanation": "."
+  },
+  {
+    "id": 48,
+    "content": "Phát triển kinh tế tư nhân trở thành một động lực quan trọng của nền KTTT định hướng XHCN là quan điểm khi nào?",
+    "options": {
+      "A": "2017",
+      "B": "2018",
+      "C": "2021",
+      "D": "2016"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình trang 378 (Đại hội XII/Nghị quyết Trung ương)."
+  },
+  {
+    "id": 49,
+    "content": "Đảng Cộng sản Đông Dương đã tách thành 3 đảng để lãnh đạo cách mạng 3 nước Đông Dương từ khi nào?",
+    "options": {
+      "A": "Tháng 2/1951",
+      "B": "Tháng 10/1930",
+      "C": "Tháng 12/1976",
+      "D": "Tháng 2/1930"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình trang 160,161, chương 2."
+  },
+  {
+    "id": 50,
+    "content": "Chiến dịch Mậu Thân diễn ra thời gian nào?",
+    "options": {
+      "A": "Đêm 30, rạng sáng ngày 31/1/1968",
+      "B": "Đêm 30, rạng sáng ngày 31/1/1967",
+      "C": "Đêm 30, rạng sáng ngày 31/1/1969",
+      "D": "Đêm 30, rạng sáng ngày 31/1/1970"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình trang 217, chương 2."
+  },
+  {
+    "id": 51,
+    "content": "Đại hội IX khẳng định bước phát triển quan trọng trong tư duy lý luận của Đảng là gì?",
+    "options": {
+      "A": "Lấy chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động",
+      "B": "Dựa vào nhân dân",
+      "C": "Kiên trì mục tiêu độc lập dân tộc và chủ nghĩa xã hội",
+      "D": "Chăm lo bồi dưỡng thế hệ cách mạng cho đời sau"
+    },
+    "correct_answer": "A",
+    "explanation": "Giáo trình trang 347, chương 3, phần II."
+  },
+  {
+    "id": 52,
+    "content": "Chủ trương của Đảng và Chính phủ ta trong chiến lược Đông - Xuân 1953 - 1954 là gì?",
+    "options": {
+      "A": "Tấn công vào những hướng quan trọng về chiến lược ở các đô thị lớn",
+      "B": "Tấn công địch ở những nơi chúng tập trung quân, buộc chúng phải phân tán lực lượng",
+      "C": "Tấn công vào những hướng quan trọng về chiến lược mà địch tương đối yếu, buộc chúng phải bị động phân tán lực lượng đối phó với ta trên những địa bàn xung yếu mà chúng không thể bỏ",
+      "D": "Tấn công địch ở rừng núi – nơi lực lượng của chúng mỏng, dễ bị tiêu diệt"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình chương 2, phần I, mục 3c."
+  },
+  {
+    "id": 53,
+    "content": "Hội nghị trung ương lần thứ nhất 10/1930 đã quyết định thông qua những nội dung nào? Hãy chọn phương án không đúng?",
+    "options": {
+      "A": "Bầu đồng chí Trần Phú làm Tổng bí thư của Đảng",
+      "B": "Thông qua Luận cương chính trị của Đảng Cộng sản Đông Dương",
+      "C": "Quyết định đổi tên Đảng Cộng sản Việt Nam thành Đảng Cộng sản Đông Dương",
+      "D": "Xác định kẻ thù nguy hiểm của nhân dân Đông Dương lúc này là phát xít"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 75, 76 phần 1b (nội dung này thuộc HN tại Thượng Hải)."
+  },
+  {
+    "id": 54,
+    "content": "Đảng Cộng sản Việt Nam đã trải qua những tên gọi nào sau đây? Hãy chọn phương án không đúng:",
+    "options": {
+      "A": "Đảng Cộng sản Đông Dương",
+      "B": "Đảng Lao động Việt Nam",
+      "C": "Đảng Cộng sản Việt Nam",
+      "D": "Đảng Lao động Đông Dương"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 75 và trang 161."
+  },
+  {
+    "id": 55,
+    "content": "Câu nói: “Chiến tranh có thể kéo dài 5 năm, 10 năm... Không có gì quý hơn độc lập, tự do...” là của ai?",
+    "options": {
+      "A": "Trường Trinh",
+      "B": "Hồ Chí Minh",
+      "C": "Lê Duẩn",
+      "D": "Võ Nguyên Giáp"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 211, chương 2, phần II."
+  },
+  {
+    "id": 56,
+    "content": "Sơ thảo luận cương của Lênin được Quốc tế cộng sản thông qua năm nào?",
+    "options": {
+      "A": "1921",
+      "B": "1920",
+      "C": "1919",
+      "D": "1922"
+    },
+    "correct_answer": "B",
+    "explanation": "Giáo trình trang 37 chương 1."
+  },
+  {
+    "id": 57,
+    "content": "Bài học kinh nghiệm về đổi mới nào do Đại hội VI của Đảng nêu lên?",
+    "options": {
+      "A": "Trong quá trình đổi mới phải kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội trên nền tảng chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh.",
+      "B": "Đường lối đúng đắn là nhân tố quyết định...",
+      "C": "Đảng phải luôn luôn xuất phát từ thực tế, tôn trọng và hành động theo quy luật khách quan",
+      "D": "Đổi mới kết hợp sức mạnh dân tộc và thời đại"
+    },
+    "correct_answer": "C",
+    "explanation": "Giáo trình trang 261, chương II."
+  },
+  {
+    "id": 58,
+    "content": "Chiến tranh đơn phương chấm dứt với sự kiện nào?",
+    "options": {
+      "A": "Phong trào Xô Viết Nghệ Tĩnh",
+      "B": "Phong trào cứu nước giải phóng dân tộc",
+      "C": "Phong trào Vận động dân chủ",
+      "D": "Phong trào Đồng Khởi"
+    },
+    "correct_answer": "D",
+    "explanation": "Giáo trình trang 192, chương 2, phần II."
+  }
+]

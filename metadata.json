@@ -1,0 +1,6 @@
+{
+  "name": "Kinh tế bảo hiểm",
+  "description": "Ôn tập trắc nghiệm và luyện đề môn Kinh tế bảo hiểm theo từng chương",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
