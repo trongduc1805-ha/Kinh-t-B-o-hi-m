@@ -73,65 +73,63 @@ export default function ExamBuilderModal({ chapters, onStartExam, onClose }: Pro
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 animate-in fade-in duration-300">
+    <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4">
       <div 
-        className="absolute inset-0 bg-black/40 backdrop-blur-sm" 
+        className="absolute inset-0 bg-black/45" 
         onClick={onClose}
       />
-      <div className="relative w-full max-w-[440px] bg-white border-2 border-zinc-300 rounded-3xl shadow-2xl flex flex-col max-h-[90vh] overflow-hidden animate-in slide-in-from-bottom-20 duration-300 ease-out p-1">
+      <div className="relative w-full max-w-[440px] bg-white border border-zinc-200 rounded-t-2xl sm:rounded-2xl flex flex-col max-h-[90vh] overflow-hidden">
         
         {/* Header */}
-        <div className="flex items-center justify-between px-6 pb-4 pt-6 border-b border-zinc-100 shrink-0 bg-white">
-          <div>
-            <h2 className="text-xs sm:text-sm font-bold text-zinc-900 tracking-wider flex items-center gap-2 uppercase">
-              <Dices strokeWidth={2} className="w-5 h-5 text-[#1d4ed8]" />
-              Tạo đề thi tùy chỉnh
-            </h2>
-          </div>
+        <div className="flex items-center justify-between px-5 py-4 border-b border-zinc-200 shrink-0 bg-white">
+          <h2 className="text-sm font-bold text-zinc-900 flex items-center gap-2">
+            <Dices strokeWidth={2} className="w-4 h-4 text-[#1d4ed8]" />
+            <span>Tạo đề thi tùy chỉnh</span>
+          </h2>
           <button 
             onClick={onClose}
-            className="w-9 h-9 rounded-full flex items-center justify-center bg-zinc-100 hover:bg-zinc-200 text-zinc-500 hover:text-zinc-800 border border-zinc-200 transition-colors cursor-pointer select-none"
+            className="p-1.5 rounded-lg text-zinc-400 hover:text-zinc-800 hover:bg-zinc-100 transition-colors cursor-pointer"
           >
             <X strokeWidth={2} className="w-5 h-5" />
           </button>
         </div>
 
         {/* Content */}
-        <div className="flex-1 overflow-y-auto px-6 py-6 scrollbar-hide">
-          <div className="flex flex-col gap-4">
-            {chapters.map((chapter, index) => {
+        <div className="flex-1 overflow-y-auto px-5 py-4 scrollbar-hide">
+          <div className="border border-zinc-200 rounded-xl divide-y divide-zinc-200 bg-white overflow-hidden">
+            {chapters.map((chapter) => {
               const count = structure[chapter.chapter] || 0;
               const maxAvailable = chapter.questions?.length || 0;
               return (
                 <div 
                   key={chapter.chapter}
-                  className="p-4 flex items-center justify-between border-2 border-zinc-300 bg-zinc-50/50 rounded-2xl transition-all hover:border-zinc-400 hover:bg-zinc-50 shadow-sm"
+                  className="px-4 py-3 flex items-center justify-between gap-3"
                 >
-                  <div className="flex-1 pr-4">
-                    <p className="text-xs sm:text-sm font-semibold text-zinc-800 leading-tight">
+                  <div className="min-w-0 flex-1">
+                    <p className="text-sm font-semibold text-zinc-900">
                       Chương {chapter.chapter}
                     </p>
-                    <p className="text-[11px] text-zinc-500 mt-1">
-                      Kho câu hỏi: {maxAvailable} câu
+                    <p className="text-xs text-zinc-500 tabular-nums">
+                      Kho: {maxAvailable} câu
                     </p>
                   </div>
                   
                   {/* Stepper */}
-                  <div className="flex items-center gap-2">
+                  <div className="flex items-center gap-2 shrink-0">
                     <button 
                       onClick={() => updateCount(chapter.chapter, -1)}
                       disabled={count <= 0}
-                      className="w-8 h-8 rounded-full border border-zinc-200 bg-white hover:bg-zinc-50 text-zinc-600 disabled:opacity-30 disabled:pointer-events-none flex items-center justify-center font-bold cursor-pointer select-none text-sm shadow-sm"
+                      className="w-8 h-8 rounded-lg border border-zinc-200 bg-zinc-50 hover:bg-zinc-100 text-zinc-700 disabled:opacity-30 disabled:pointer-events-none flex items-center justify-center font-bold cursor-pointer text-sm"
                     >
                       -
                     </button>
-                    <span className="w-8 text-center text-xs sm:text-sm font-bold text-zinc-800 select-none">
+                    <span className="w-7 text-center text-sm font-bold text-zinc-900 tabular-nums">
                       {count}
                     </span>
                     <button 
                       onClick={() => updateCount(chapter.chapter, 1)}
                       disabled={count >= maxAvailable}
-                      className="w-8 h-8 rounded-full border border-zinc-200 bg-white hover:bg-zinc-50 text-zinc-600 disabled:opacity-30 disabled:pointer-events-none flex items-center justify-center font-bold cursor-pointer select-none text-sm shadow-sm"
+                      className="w-8 h-8 rounded-lg border border-zinc-200 bg-zinc-50 hover:bg-zinc-100 text-zinc-700 disabled:opacity-30 disabled:pointer-events-none flex items-center justify-center font-bold cursor-pointer text-sm"
                     >
                       +
                     </button>
@@ -143,19 +141,18 @@ export default function ExamBuilderModal({ chapters, onStartExam, onClose }: Pro
         </div>
 
         {/* Footer */}
-        <div className="p-6 border-t border-zinc-100 bg-white z-10 shrink-0 pb-6 relative">
-          
-          <div className="flex items-center justify-between mb-4 bg-zinc-50/60 p-3 rounded-2xl border-2 border-zinc-300">
-            <span className="text-[11px] sm:text-xs text-zinc-500 font-medium">Tổng câu hỏi chọn:</span>
-            <span className="text-sm sm:text-base font-bold text-[#1d4ed8] mr-1 tabular-nums">{totalSelected}</span>
+        <div className="px-5 py-4 border-t border-zinc-200 bg-white shrink-0 space-y-3 pb-[calc(env(safe-area-inset-bottom,16px)+16px)]">
+          <div className="flex items-center justify-between text-xs sm:text-sm">
+            <span className="text-zinc-500 font-medium">Tổng câu hỏi:</span>
+            <span className="font-bold text-[#1d4ed8] tabular-nums">{totalSelected} câu</span>
           </div>
 
-          <div className="flex items-center justify-between mb-5 bg-zinc-50/60 p-3 rounded-2xl border-2 border-zinc-300">
-            <span className="text-[11px] sm:text-xs text-zinc-500 font-medium">Giới hạn thời gian:</span>
+          <div className="flex items-center justify-between text-xs sm:text-sm">
+            <span className="text-zinc-500 font-medium">Thời gian làm bài:</span>
             <select 
               value={timeLimitOption}
               onChange={(e) => setTimeLimitOption(Number(e.target.value))}
-              className="text-[11px] sm:text-xs font-semibold text-zinc-700 bg-white border border-zinc-200 rounded-full px-3 py-1 outline-none cursor-pointer focus:border-[#1d4ed8]/50"
+              className="text-xs sm:text-sm font-semibold text-zinc-800 bg-zinc-50 border border-zinc-200 rounded-lg px-2.5 py-1.5 outline-none cursor-pointer focus:border-[#1d4ed8]"
             >
               <option value={0}>Không giới hạn</option>
               <option value={15}>15 phút</option>
@@ -170,9 +167,9 @@ export default function ExamBuilderModal({ chapters, onStartExam, onClose }: Pro
           <button
             onClick={handleStart}
             disabled={totalSelected === 0}
-            className="btn-primary w-full py-3.5 text-xs sm:text-sm font-semibold flex items-center justify-center gap-2 disabled:opacity-50 disabled:pointer-events-none"
+            className="btn-primary w-full py-3 disabled:opacity-50 disabled:pointer-events-none"
           >
-            Bắt Đầu Làm Bài
+            Bắt đầu làm bài
           </button>
         </div>
       </div>

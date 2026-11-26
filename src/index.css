@@ -31,28 +31,28 @@ body {
 .text-xl-custom { font-size: 20px; }
 
 @utility btn-primary {
-  @apply bg-[#1d4ed8] text-white hover:bg-[#1e40af] active:scale-95 text-[15px] font-semibold tracking-wide rounded-[50px] transition-all duration-300 outline-none px-6 py-3 border border-transparent shadow-sm flex items-center justify-center gap-2 select-none cursor-pointer;
+  @apply bg-[#1d4ed8] text-white hover:bg-[#1e40af] text-sm font-semibold rounded-xl transition-colors duration-150 outline-none px-4 py-2.5 border border-transparent flex items-center justify-center gap-2 select-none cursor-pointer;
   &:focus-visible {
-    @apply ring-4 ring-[#1d4ed8]/40 ring-offset-2 ring-offset-white;
+    @apply ring-2 ring-[#1d4ed8]/40 ring-offset-2 ring-offset-white;
   }
 }
 
 @utility btn-secondary {
-  @apply bg-[#60a5fa] text-white hover:bg-[#3b82f6] active:scale-95 text-[15px] font-semibold tracking-wide rounded-[50px] transition-all duration-300 outline-none px-6 py-3 border border-transparent shadow-sm flex items-center justify-center gap-2 select-none cursor-pointer;
+  @apply bg-[#60a5fa] text-white hover:bg-[#3b82f6] text-sm font-semibold rounded-xl transition-colors duration-150 outline-none px-4 py-2.5 border border-transparent flex items-center justify-center gap-2 select-none cursor-pointer;
   &:focus-visible {
-    @apply ring-4 ring-[#60a5fa]/50 ring-offset-2 ring-offset-white;
+    @apply ring-2 ring-[#60a5fa]/50 ring-offset-2 ring-offset-white;
   }
 }
 
 @utility btn-ghost {
-  @apply bg-transparent text-[#1d4ed8] border border-[#1d4ed8] hover:bg-[#eff6ff] active:scale-95 text-[15px] font-semibold tracking-wide rounded-[50px] transition-all duration-300 outline-none px-6 py-3 flex items-center justify-center gap-2 select-none cursor-pointer;
+  @apply bg-white text-[#1d4ed8] border border-zinc-300 hover:border-[#1d4ed8] hover:bg-[#eff6ff] text-sm font-semibold rounded-xl transition-colors duration-150 outline-none px-4 py-2.5 flex items-center justify-center gap-2 select-none cursor-pointer;
   &:focus-visible {
-    @apply ring-4 ring-[#1d4ed8]/30 ring-offset-2 ring-offset-white;
+    @apply ring-2 ring-[#1d4ed8]/30 ring-offset-2 ring-offset-white;
   }
 }
 
 @utility card-tu-lieu {
-  @apply bg-white text-text-primary border border-gray-100 rounded-3xl p-6 shadow-[0_8px_30px_rgb(0,0,0,0.04)] hover:shadow-[0_8px_30px_rgb(29,78,216,0.08)] hover:-translate-y-1 transition-all duration-300 relative overflow-hidden;
+  @apply bg-white text-text-primary border border-zinc-200 rounded-xl p-4 transition-colors duration-150 relative;
 }
 
 @utility scrollbar-hide {
