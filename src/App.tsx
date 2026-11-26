@@ -11,6 +11,7 @@ import ExamBuilderModal from './components/ExamBuilderModal';
 import { Chapter, SavedChapterSession } from './types';
 import questionsData from './data/questions.json';
 import { Dices } from 'lucide-react';
+import { initGlobalAudioUnlock } from './utils/audioManager';
 
 export default function App() {
   const [chapters, setChapters] = useState<Chapter[]>([]);
@@ -20,6 +21,10 @@ export default function App() {
   const [isExamModalOpen, setIsExamModalOpen] = useState(false);
 
   const bumpProgress = () => setProgressVersion((v) => v + 1);
+
+  useEffect(() => {
+    return initGlobalAudioUnlock();
+  }, []);
 
   useEffect(() => {
     const rawData = questionsData as any[];

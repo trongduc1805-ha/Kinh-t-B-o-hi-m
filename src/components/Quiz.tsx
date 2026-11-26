@@ -12,6 +12,7 @@ import {
   recordQuestionReview,
   saveChapterSession,
 } from '../utils/srsStorage';
+import { playSFX, setAmbientAudioSession, unlockAudio } from '../utils/audioManager';
 
 interface Props {
   chapter: Chapter;
@@ -132,10 +133,6 @@ export default function Quiz({ chapter, onBack, studySession, onProgressUpdated 
     localStorage.setItem('quiz_isSFXMuted', String(isSFXMuted));
   }, [isSFXMuted]);
   const audioRef = React.useRef<HTMLAudioElement>(null);
-  const correctAudioRef = React.useRef<HTMLAudioElement>(null);
-  const wrongAudioRef = React.useRef<HTMLAudioElement>(null);
-  const endAudioRef = React.useRef<HTMLAudioElement>(null);
-  const streak5AudioRef = React.useRef<HTMLAudioElement>(null);
 
   const feedbackRef = React.useRef<HTMLDivElement>(null);
   const containerRef = React.useRef<HTMLDivElement>(null);
@@ -303,10 +300,8 @@ export default function Quiz({ chapter, onBack, studySession, onProgressUpdated 
         return () => clearInterval(timer);
       } else if (timeLeft === 0 && currentQuestion) {
         // Time's up! End exam early.
-        if (endAudioRef.current && !isSFXMuted) {
-          endAudioRef.current.volume = volume;
-          endAudioRef.current.currentTime = 0;
-          endAudioRef.current.play().catch(e => console.error("Audio play error", e));
+        if (!isSFXMuted) {
+          playSFX('end', volume);
         }
         
         if (isMockExamMode) {
@@ -477,9 +472,12 @@ export default function Quiz({ chapter, onBack, studySession, onProgressUpdated 
 
   const handleSelectOption = (key: string) => {
     if (!currentQuestion) return;
-    
+
+    unlockAudio();
+
     // Play background music if not muted and paused (bypasses browser autoplay block on first gesture)
     if (audioRef.current && !isMuted && audioRef.current.paused) {
+      setAmbientAudioSession();
       audioRef.current.play().catch(() => {});
     }
 
@@ -528,27 +526,11 @@ export default function Quiz({ chapter, onBack, studySession, onProgressUpdated 
           setTimeout(() => setShowStreakPopup(false), 2000);
         }
         
-        {
-          let audioEl = correctAudioRef.current;
-          let playVolume = 0.5;
-          if (newStreak > 0 && newStreak % 5 === 0 && streak5AudioRef.current) {
-            audioEl = streak5AudioRef.current;
-            playVolume = 1.0;
-          }
-          
-          if (audioEl && !isSFXMuted) {
-            audioEl.volume = playVolume;
-            audioEl.playbackRate = 1.0;
-            audioEl.preservesPitch = true;
-            audioEl.currentTime = 0;
-            const playPromise = audioEl.play();
-            if (playPromise !== undefined) {
-              playPromise.catch(e => {
-                if (e.name !== 'NotSupportedError') {
-                  console.error("Audio play error", e);
-                }
-              });
-            }
+        if (!isSFXMuted) {
+          if (newStreak > 0 && newStreak % 5 === 0) {
+            playSFX('streak5', 1.0);
+          } else {
+            playSFX('correct', 0.6);
           }
         }
       } else {
@@ -557,22 +539,8 @@ export default function Quiz({ chapter, onBack, studySession, onProgressUpdated 
         }
         setStreak(0);
         
-        {
-          const audioEl = wrongAudioRef.current;
-          
-          if (audioEl && !isSFXMuted) {
-            audioEl.volume = 1.0;
-            audioEl.playbackRate = 1.0;
-            audioEl.currentTime = 0;
-            const playPromise = audioEl.play();
-            if (playPromise !== undefined) {
-              playPromise.catch(e => {
-                if (e.name !== 'NotSupportedError') {
-                  console.error("Audio play error", e);
-                }
-              });
-            }
-          }
+        if (!isSFXMuted) {
+          playSFX('wrong', 1.0);
         }
         
         setExamWrongQuestions(prev => {
@@ -958,7 +926,21 @@ export default function Quiz({ chapter, onBack, studySession, onProgressUpdated 
                     />
                   </div>
                   <button 
-                    onClick={() => setIsMuted(!isMuted)}
+                    onClick={() => {
+                      const nextMuted = !isMuted;
+                      setIsMuted(nextMuted);
+                      unlockAudio();
+                      if (audioRef.current) {
+                        if (nextMuted) {
+                          audioRef.current.pause();
+                        } else {
+                          setAmbientAudioSession();
+                          audioRef.current.muted = false;
+                          audioRef.current.volume = volume;
+                          audioRef.current.play().catch(() => {});
+                        }
+                      }
+                    }}
                     className="p-1.5 hover:bg-zinc-100 rounded-lg transition-colors cursor-pointer relative"
                     title={isMuted ? "Bật nhạc nền" : "Tắt nhạc nền"}
                   >
@@ -971,7 +953,13 @@ export default function Quiz({ chapter, onBack, studySession, onProgressUpdated 
                   </button>
 
                   <button 
-                    onClick={() => setIsSFXMuted(!isSFXMuted)}
+                    onClick={() => {
+                      const nextSFXMuted = !isSFXMuted;
+                      setIsSFXMuted(nextSFXMuted);
+                      if (!nextSFXMuted) {
+                        unlockAudio();
+                      }
+                    }}
                     className="p-1.5 hover:bg-zinc-100 rounded-lg transition-colors cursor-pointer"
                     title={isSFXMuted ? "Bật âm hiệu ứng" : "Tắt âm hiệu ứng"}
                   >
@@ -1221,47 +1209,65 @@ export default function Quiz({ chapter, onBack, studySession, onProgressUpdated 
 
   const [currentSong] = useState('/Cac-ca-khuc-SnapYT.App.mp3');
 
-  // Synchronize audio with mute/volume state and play background music
+  // Synchronize audio with mute/volume state and play background music without interrupting external players
   useEffect(() => {
-    if (audioRef.current) {
-      audioRef.current.volume = volume;
-      if (isMuted) {
-        audioRef.current.pause();
-      } else {
-        const playPromise = audioRef.current.play();
-        if (playPromise !== undefined) {
-          playPromise.catch((e) => {
-            console.log("Background music play deferred until user interaction.", e);
-          });
-        }
+    const audioEl = audioRef.current;
+    if (!audioEl) return;
+
+    audioEl.volume = volume;
+    if (isMuted) {
+      audioEl.pause();
+    } else {
+      setAmbientAudioSession();
+      const playPromise = audioEl.play();
+      if (playPromise !== undefined) {
+        playPromise.catch(() => {
+          // Deferred until next user tap in iOS standalone PWA
+        });
       }
     }
   }, [isMuted, volume, currentSong]);
 
-  // Handle document click/tap to bypass browser autoplay policy
+  // Handle gestures & app foregrounding (iOS Home Screen PWA & switching back from Spotify)
   useEffect(() => {
-    const playAudio = () => {
+    const resumeBgAudioIfEnabled = () => {
+      unlockAudio();
       if (audioRef.current && !isMuted && audioRef.current.paused) {
-        audioRef.current.play().catch(e => console.log("Autoplay play deferred: ", e));
+        setAmbientAudioSession();
+        audioRef.current.play().catch(() => {});
       }
     };
-    
-    document.addEventListener('click', playAudio, { once: true });
-    document.addEventListener('touchstart', playAudio, { once: true });
-    
+
+    const handleVisibility = () => {
+      if (document.visibilityState === 'visible') {
+        resumeBgAudioIfEnabled();
+      }
+    };
+
+    document.addEventListener('click', resumeBgAudioIfEnabled, { passive: true });
+    document.addEventListener('touchstart', resumeBgAudioIfEnabled, { passive: true });
+    document.addEventListener('visibilitychange', handleVisibility);
+    window.addEventListener('pageshow', resumeBgAudioIfEnabled);
+
     return () => {
-      document.removeEventListener('click', playAudio);
-      document.removeEventListener('touchstart', playAudio);
+      document.removeEventListener('click', resumeBgAudioIfEnabled);
+      document.removeEventListener('touchstart', resumeBgAudioIfEnabled);
+      document.removeEventListener('visibilitychange', handleVisibility);
+      window.removeEventListener('pageshow', resumeBgAudioIfEnabled);
     };
   }, [isMuted]);
 
   return (
     <>
-      <audio ref={audioRef} src={currentSong} autoPlay loop muted={isMuted} className="hidden" />
-      <audio ref={correctAudioRef} src="/true.mp3" preload="auto" className="hidden" />
-      <audio ref={wrongAudioRef} src="/false.mp3" preload="auto" className="hidden" />
-      <audio ref={endAudioRef} src="/end.mp3" preload="auto" className="hidden" />
-      <audio ref={streak5AudioRef} src="/streak5.mp3" preload="auto" className="hidden" />
+      <audio
+        ref={audioRef}
+        src={currentSong}
+        loop
+        muted={isMuted}
+        preload="auto"
+        playsInline
+        className="hidden"
+      />
       {renderQuizContent()}
     </>
   );
